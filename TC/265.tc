@@ -1,0 +1,176 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+E.a4a5Xa {dot omitted in MS}
+Sc4
+Ee4
+a4 {rhythm sign crossed through}
+Qd3Xa
+a4
+|
+Ed3a4Xa
+e5
+a2a3c5
+d2
+Hc2d3c4a5
+|
+E.d3c4a5
+Sa2
+Ec2
+d6
+c6
+d3
+d2
+c6
+|
+E.a1a6
+Sc1
+Ed1 {rhythm sign aligned with next note}
+f1
+Q.c1d2d3Xa
+Ec1
+|
+Qa1d6
+d2 {head of unfinished rhythm sign above}
+Ec2a5
+d2
+a1
+d6
+|
+{^}
+c6
+d3
+a2a6
+c2
+Qd2a3a4Xa
+Ea3
+b3
+|
+d3e5
+b3
+Qa3a4
+Q.c4a5
+Sa4
+c4
+|
+Qa4
+H.Xa
+:|:
+Q.d2a3a4Xa {dot omitted in MS}
+Ed3
+Q.a2d6
+Ea2
+|
+b3a6
+c4
+d3e5
+b3
+Qa3a4
+Xa
+|
+d3a4Xa
+Ed3 {E erroneously aligned with previous note in MS}
+a2
+c2d3a5
+{^}
+d6
+c6
+d2
+|
+Qa1a6
+c1d2d3Xa
+a1a5
+d1a2a6
+|
+Q.d2a3c5 {dot omitted in MS}
+Ec2
+d2c6
+a1
+c1
+d6
+|
+Q.c2d3c4a5
+Ed2
+a1
+{superfluous a1 here}
+a5
+a2d6
+c2
+|
+d2c6
+a1
+c1Xa
+d1
+Q.a1a5
+Sd2
+a1
+| {editorially supplied}
+Qd2
+a4
+HXa
+||
+{^}
+M(3) {written as small figure (3.) on line 6}
+Q.d2a3a4Xa
+Ef2
+Qd2
+Q.d3a4Xa
+Ef3
+Qd3
+|
+Qa2d6
+d3c6
+b3a6
+Q.a3a4Xa {dot omitted in MS}
+Sc4 {rhythm sign aligned with following note in MS}
+a3
+Qa4 {a5 crossed through}
+|
+Qc1a4
+a1e5
+d2c5
+Q.c2a5 {dot omitted in MS}
+Ed2
+Qa1
+|
+d3c6
+Q.a2a6 {dot omitted in MS}
+Sd3
+a2
+Q.c2a5
+Sa2
+c2
+Qd3
+|
+{^}
+c6
+a6
+Xa
+a5
+d3
+c6
+|
+d6
+a2
+a6
+Q.c2a5
+Sa2
+c2 
+Ed2a4 {rhythm sign aligned with following note in MS}
+a1
+|
+c1
+d2
+Q.a1a5
+Sd2
+a1
+Qd2
+a4
+Xa
+| {editorially supplied}
+H.d2a3a4
+:|:

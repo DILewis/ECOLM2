@@ -1,0 +1,85 @@
+{<rules>
+	<tuning_named>Gaultier</tuning_named>
+	<notation>french</notation>
+	<pitch>64</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+{barred 3 or C/?}
+Qd1a5
+|
+Q.a1Xa///
+Ec2
+Qa1
+|
+Hb1a2a3a4Xa
+Ed1
+a1
+|
+Hc2a6
+Qa2
+|
+Qa2d3c4a5
+c2
+a1
+|
+Q.a1Xa///
+Ec2
+Qa1
+|
+Hb1a2a3a4
+Qa1
+|
+Q.c2a6
+Ea1
+Qa2
+:|:
+Xa///
+Xa//
+Xa//
+|
+{^}
+a1a5 {a5 crossed?}
+c2
+a1
+| {editorially supplied}
+d1Xa///
+a2
+a1
+|
+Hc2a6
+Qa2 {initial a2 and a1 or d1 (?) crossed through}
+:|:
+Xa///
+a1
+a2
+|
+QXa/ {rhythm sign misaligned with following note}
+a1
+a2
+| {editorially supplied}
+QXa
+a1
+a2
+|
+Q.c2a6
+Ea1
+Qa2
+:|:
+QXa///
+a1
+a2
+|
+QXa/
+d1
+a2
+|
+{^}
+QXa
+c3
+a2
+|
+Q.c2a6 {rhythm sign has been altered}
+Ed3
+Qa2
+||

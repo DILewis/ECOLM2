@@ -1,0 +1,171 @@
+{abc Comment: %}
+{File: 'Robinson/probs/Robinson21' Title: Robin is to the greenwood gone}
+{abc Comment: %}
+{abc Comment: %staff 1}
+E.d2a3c5
+Ea1
+Qd2a3c5
+| {bar 1}
+
+Qc2d3e4
+e5
+a2c3c4
+| {bar 2}
+
+Qf1c2d3
+Ed2f3
+c1
+Qh1f4
+| {bar 3}
+
+Qc1c2e3e4
+Hc6
+|| {bar 4}
+Ea2a3c5
+c2
+d2
+a1e5
+d2a4
+c4
+| {bar 5}
+
+Qc2d3e4
+Ee5
+a4
+Qa2c3c4
+| {bar 6}
+
+{abc Comment: %staff 2}
+Ef1c2
+d3
+d2f3
+c1
+Qh1f3f4
+| {bar 7}
+
+Ec1c2e3e4
+Sf2
+d2
+c2
+f3
+e3
+c3
+Qe4
+|| {bar 8}
+Qc1d3e4
+h1f3f4
+f1h3h4
+| {bar 9}
+
+Qe1a2c4
+Ea6
+c1
+Qa1a2c3c4
+| {bar 10}
+
+Qf1d2a3a4
+Ec3c4
+e1
+c1c2d3e4
+a1
+| {bar 11}
+
+S.d2a3c5
+Sa1
+Ed2
+c2
+Qa2c3c4
+| {bar 12}
+
+{abc Comment: %staff 3}
+Ef1c2
+d3
+d2f3
+c1
+h1
+f3f4
+| {bar 13}
+
+Ec1
+e4
+e3
+f2
+d2f3
+c1
+| {bar 14}
+
+Ea1c4
+d2
+c2e3e4
+a2
+Qc2e3e4
+| {bar 15}
+
+Qa2a3c5
+HXa
+|| {bar 16}
+Ec1a3
+Se1
+f1
+Eh1
+f3f4
+f1h3
+h4
+| {bar 17}
+
+Ee1a2c4
+Sa1
+c1
+Ee1
+c1
+a1
+c4
+| {bar 18}
+
+{abc Comment: %staff 4}
+Ef1a4
+Sc1
+e1
+Ef1
+e1c4
+c1d3e4
+a1
+| {bar 19}
+
+Ed2a3c5
+Sa2
+c2
+Ed2
+c2
+a2
+c4
+| {bar 20}
+
+Ef1
+Sd3
+e1
+Ec1d2f3
+Se1
+f1
+Eh1
+f3f4
+| {bar 21}
+
+Ec1c2e3
+e4
+c6
+f2
+d2f3c5
+c1
+| {bar 22}
+
+Ea1a2a6
+d2
+c2a3c6
+a2
+Qc2a3
+| {bar 23}
+
+Qa2a3b4c5
+HXa
+|| {bar 24}

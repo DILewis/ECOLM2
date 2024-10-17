@@ -1,0 +1,125 @@
+{<rules>
+	<tuning_named>french-flat</tuning_named>
+	<notation>french</notation>
+	<pitch>63</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Qc1
+|
+H.c1a2a3a4Xa {dot omitted in MS}
+|
+Qa2a3d4
+c2c3c4
+e2
+|
+{^}
+Q.c1a2a3a4 {originally Q? see following alterations}
+Ee1 {MS has E. (originally Q.?); should have been altered to accommodate change to following value}
+Qf1 {Q written above crossed out E}
+|
+Qe1Xa/
+Q.f2Xa//
+Ee1
+|
+Qe2Xa///
+Ha5
+|
+Qf2a3a4Xa
+Q.d2a6
+Ef3
+|
+Qa2d4
+a3
+Ea1
+Sc4
+a4
+|
+Ee5
+a2
+a3
+Xa
+E.c4
+Sa4
+|
+Sd5
+a2
+{^}
+c5
+a5
+Ee6
+a2
+c4
+c2
+|
+Ea5
+d2
+Q.c2a6
+Sa2
+d3
+|
+Qa2
+a5
+Xa///
+|
+Ha2e3
+||
+Qe1
+|
+e1d2e3c4a5
+Q.Xa///
+Ef4
+|
+d4
+f2
+Q.e1Xa
+Sf1
+e1
+|
+Qe1
+Ef1 {rhythm sign incorrectly aligned with penultimate note in MS}
+Xa
+e1
+f2 {f6 crossed through}
+|
+{^}
+Qa1a5
+a2
+c1
+|
+EXa//
+c1
+Qc3
+e1
+|
+Ea1d4a5
+Sc4
+a4
+{superfluous barline in MS} 
+Q.c3Xa/
+Sd4
+c3
+|
+Qe3
+Hb6
+|
+Hd2 {H editorially supplied}
+Qe2a6 {Q editorially supplied}
+|
+Q.f1Xa
+Ee1
+f1
+h1
+|
+Qf1a4
+Q.e1a5
+Sf2
+e1
+|
+{^}
+Qf2 {Q editorially supplied}
+a4
+Xa
+|
+H.c1a2a3a4 {H. editorially supplied}
+||

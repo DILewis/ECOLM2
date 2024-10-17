@@ -1,0 +1,139 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Qa1b2d3a5
+EXa///
+d2
+E.b2 {dot omitted in MS}
+Sd2
+Qa1 {MS has erroneous H}
+|
+b1d2d3a4
+Ed1
+b1
+Qa1a5 {Q editorially supplied}
+Xa///
+|
+Ed3c4
+a2
+b2
+d2
+a1d3
+c1
+d1b3
+c4
+|
+d4
+f1g2
+f2
+d2 {something crossed on line 2, but nothing given as replacement; d2 editorially supplied}
+Qe1f2c4 {c3 crossed through}
+Ea6
+a4
+|
+{>}
+{^}
+Ef2d5 {E editorially supplied; carries over from previous folio}
+g2
+d1
+f1
+Qd1
+b2a6
+|
+Ed2b6
+d6
+b2
+d2
+Qa1d5 {Q editorially supplied}
+EXa/ {E editorially supplied}
+a1
+|
+d2Xa
+b2
+a2Xa
+d3
+a2
+b2
+d2b6
+b2
+| {editorially supplied}
+Q.a2a6
+Sd3
+a2
+Qd3
+Xa///
+:|:
+f1
+|
+Qf1f2g3a5
+EXa///
+f1
+{^}
+d1c5
+f1
+d1
+b1
+|
+Qa1d5
+Xa/
+b2c4
+b2d5
+|
+Ed2d4
+a1
+b1
+d1
+a1b3 {something crossed through on line 4}
+b1
+Qd2d6
+|
+Qb2d5
+d2
+Ea1 {rhythm sign erroneously aligned with next note in MS}
+c1c5
+e1
+f1
+|
+Qe1c4
+Ea6
+a4
+Qe5
+Ef1
+d1
+|
+Qc1a4
+EXa
+d5
+Qc5 {rhythm sign aligned with previous note}
+Ed1 {rhythm sign aligned with previous note}
+b1
+|
+{^}
+Qa1d5
+Xa/
+b2d3d4
+c4
+|
+Q.d2d3a4
+Eb2
+a2c3c4
+d3
+Ea2
+Sd3
+a2
+| {editorially supplied}
+Ed3
+a5
+f1
+h1
+Qi1Xa {another Xa crossed through}
+h1a6
+|
+f1a5
+Xa///
+Hf1c2d3a5
+||

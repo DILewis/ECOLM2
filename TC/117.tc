@@ -1,0 +1,117 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>none</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Tf2
+Th1
+Th1
+Th1
+Te2
+Th1
+Th1
+Th1 {barline scratched out}
+Tf2
+Th1
+Th1
+Th1
+Ta2
+Th1
+Th1
+Th1
+|
+Td2
+Tf1
+Tf1
+Tf1
+Tc2
+Tf1
+Tf1
+Tf1 {barline scratched out}
+Td2
+Tf1
+Tf1
+Tf1
+Td3
+Tf1
+Tf1
+Tf1
+|
+Tb2
+Td1
+Td1
+Td1
+{^}
+Ta2
+Td1
+Td1
+Td1 {barline scratched out}
+Tb2
+Td1
+Td1
+Td1
+Tb3
+Td1
+Td1
+Td1
+|
+Ta2
+Tc1
+Tc1
+Tc1
+Te3
+Tc1
+Tc1
+Tc1 {barline scratched out}
+Ta2
+Tc1
+Tc1
+Tc1
+Ta3
+Tc1
+Tc1
+Tc1
+|
+Td3
+Ta1
+Ta1
+Ta1
+Tc3
+Ta1
+Ta1
+Ta1 {barline scratched out}
+{^}
+Td3
+Ta1
+Ta1
+Ta1
+Tc4
+Ta1
+Ta1
+Ta1
+|
+Td4
+Td2
+Td2
+Td2
+Tc4
+Tb2
+Tb2
+Tb2 {barline scratched out}
+Ta4
+Ta2
+Ta2
+Ta2
+Td5
+Td3
+Td3
+Td3
+|
+Sd3c5
+Sa5
+Sd3c5
+Sc3
+Qc2d3c4a5
+||

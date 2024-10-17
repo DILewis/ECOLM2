@@ -1,0 +1,416 @@
+{** TabCode for file: Robinson_man26.tp **}
+{Title BELL VEDERE}
+
+Qc5
+Ea3
+e5
+| {bar 2}
+Ea4
+c3c5
+d3e4
+a3
+| {bar 3}
+Ea2
+c4
+a4
+c2e5
+| {bar 4}
+Ed2a3c5
+a2
+c1
+a3
+| {bar 5}
+
+{^ system 2}
+Ef3
+a1
+d2
+d3
+| {bar 6}
+Eb3
+c2
+a2
+b3
+| {bar 7}
+E.e3e4
+Sa2
+Ec2
+c4
+| {bar 8}
+Ea4
+a2
+c1a2
+a4
+| {bar 9}
+
+{^ system 3}
+Sa1e5
+a2
+e3
+c3
+e3
+a2
+a1e5
+e3
+| {bar 10}
+Ed2f3c5
+a3
+a3
+c2a5
+| {bar 11}
+Sa2d6
+a3
+c4
+a4
+c4
+a3
+a2d6
+c4
+| {bar 12}
+Ee3e4c6
+a6
+Xd
+c1d3
+| {bar 13}
+
+{^ system 4}
+Ea1b3a6
+d2a3
+c2c4d6
+a2a4
+| {bar 14}
+Se5c6
+f3
+e3c5
+c3
+e3e5
+f3
+c4
+e3
+| {bar 15}
+Ea2a3b4
+Xa
+Sc5
+b3
+a3
+c4
+| {bar 16}
+Ea2a3b4
+c5
+QXa
+ {bar 17}
+Hd3e4f5
+| {bar 18}
+E.d3c4a5
+Sa3
+Ec2d3
+
+{^ system 5}
+Sa2
+c2
+| {bar 19}
+Ed2a3a4
+Sc2
+d2
+Ea1c2d3a5
+Sd2
+a1
+| {bar 20}
+Qc1d2d3a4
+EXd
+c1
+| {bar 21}
+Ef1
+f1
+d1
+d1a2
+| {bar 22}
+Ec1d2
+c1d2a3
+a1c2d3
+a1c2c4
+| {bar 23}
+Ed2f3f4
+d1
+f1
+f1d2d3e4
+| {bar 24}
+
+{^ system 6}
+Qh1d2f4
+Ed6
+Sf1
+d1
+| {bar 25}
+Q.f1d2a3a4
+Sd1
+c1
+| {bar 26}
+Sd1c4
+a3
+a1b3
+d3
+Ea2
+e2a3c5
+| {bar 27}
+Ea1a2c3c4
+Qa6
+Ed1a2c4
+| {bar 28}
+Ec1d2c5
+a4
+a1d2d3c4a5
+c2
+| {bar 29}
+E.d2b3a4c5
+Se5
+
+{^ system 7}
+Ed3e4f5
+a2b3d6
+| {bar 30}
+Ec2c4a5
+d2b3a4c5
+a1d2d3c4a5
+Sc2
+b3
+| {bar 31}
+Ed2a3a4
+Xd
+Sa5
+b3
+a3
+c4
+| {bar 32}
+Ed2a3a4
+Q.Xd
+| {bar 33}
+Q.c2e3e4
+Ec2
+Qa2b3
+| {bar 34}
+Q.e3e4
+Ec4
+a2a4
+e5
+| {bar 35}
+
+{^ system 8}
+Qd2a3c5
+c2a3b5
+a2a3c5
+| {bar 36}
+He3c6
+Qe4
+| {bar 37}
+Qb4
+a2c5
+c3
+| {bar 38}
+Qa2c4
+e5
+a1e3
+| {bar 39}
+Qe2a3c5
+h1a2
+g1c2e4c6
+| {bar 40}
+Qc1c2d3e4
+h2g4e5
+g2
+| {bar 41}
+Qc1c2e3c6
+Ee4
+f3
+| {bar 42}
+
+{> page 2}
+
+{^ system 9}
+Ee3
+c3
+| {bar 43}
+Qc1c2e3c6
+e4
+c2
+ {bar 44}
+Qc1
+E.e5
+Sa1
+E.e2a3
+Sc2
+| {bar 45}
+E.a2
+Sc4
+E.b4
+Se5
+E.c1a2a3c5
+Sa5
+| {bar 46}
+E.h1a2e6
+Sc6
+E.a6
+Sf1
+E.e1a2
+Sc1
+| {bar 47}
+E.a1
+Sd3
+
+{^ system 10}
+E.a2c3
+Sa3
+E.a1c4
+Sa4
+| {bar 48}
+E.e5
+Sd2c5
+E.c2a5
+Sa2
+E.d3
+Sd6
+| {bar 49}
+E.d2c6
+Sa6
+E.Xd
+Sa1
+E.c1a4
+Sd1
+| {bar 50}
+Ef1
+a1c2d3
+a5
+f1
+E.c1d2f3c5
+Sc1
+| {bar 51}
+Sa1c4
+d2
+c2b3
+a2
+
+{^ system 11}
+Ee3e4
+a2c4
+Se4
+c2
+Ee3
+| {bar 52}
+Sa2b3
+c2
+d2
+a1
+c1a3
+d1
+f1
+c4
+a4
+d1
+c1
+e5
+| {bar 53}
+Sc5
+a1
+d2
+a5
+d6
+c2
+a2
+d3
+a2
+c2
+d2
+a1
+| {bar 54}
+
+{^ system 12}
+H.c1c2e3e4e5c6
+| {bar 55}
+H.c6
+ {bar 56}
+Qc1
+f1
+d1
+| {bar 57}
+Qc1a3
+d3
+h1f4
+| {bar 58}
+Qa3
+f1
+d2f3
+| {bar 59}
+Qc1d3c6
+a5
+a2d6
+| {bar 60}
+Q.c2d3c6
+Ee2
+Qa1a2b3a6
+| {bar 61}
+
+{^ system 13}
+Qd2a3c5
+E.c2a3c6
+Sa2
+Qc2a3
+| {bar 62}
+Qa2a3c5
+EXa
+b3
+a3
+c4
+| {bar 63}
+Qa2a3b4
+Hc5
+ {bar 64}
+E.c1
+Sd1
+Ef1
+c1
+d1
+a1
+| {bar 65}
+E.c1a3
+Sb3
+Ed3
+a3
+h1f4
+h5
+| {bar 66}
+Qa3
+f1
+d2f3
+| {bar 67}
+
+{^ system 14}
+E.c1c2d3c6
+Sd6
+Ea5
+c6
+a2d6
+a6
+| {bar 68}
+Ed3c6
+f3
+c2
+d2
+Qa1a2b3a6
+| {bar 69}
+Qd2a3c5
+E.c2a3c6
+Sa2
+Qc2a3c6
+| {bar 70}
+Qa2a3c5
+EXa
+Sd3
+b3
+a3
+c4
+b4
+e5
+| {bar 71}
+Qc5
+HXa
+ {bar 72}

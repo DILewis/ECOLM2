@@ -1,0 +1,137 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Qa1d3c4a5
+Ea1
+d2
+b2
+d2
+Qa1
+|
+Qb1a4
+Ed1
+b1
+Q.a1d3c4a5 {dot omitted in MS}
+Ed3 {MS has erroneous c3 instead}
+|
+d2
+a2
+b2
+d2
+a1d6
+b1
+d1
+a1
+|
+b6
+d3
+b2
+d2
+Qa1a2c3a6
+c4
+| {was || but one line scratched out}
+Q.a1Xa/
+Ec1
+Q.d1
+Ef1
+|
+Qd1
+b2
+Qb2a4d6
+a2
+|
+{^}
+Q.b2b3c4Xa/
+Ea1
+d2Xa
+b2
+a2
+d3
+|
+Qc3a6
+Ed3b6
+a2
+b2
+d2
+Qa2c3c4
+|
+d3c4a5
+HXa/// {H editorially supplied}
+||
+Qf1 {Q editorially supplied}
+|
+Q.f1f2g3a5
+Ef1
+d1c5
+f1
+d1
+b1
+|
+Qa1d5 {Q editorially supplied}
+Xa/
+a1b2
+d5
+|
+Q.d3b6 {MS has E.; something crossed on line 1 or 2}
+Sa2 {MS has E}
+b2
+Q.b2a4d6
+Ea2 {E editorially supplied}
+|
+{^}
+Qb2b3c4Xa/
+d5
+d2c5
+b2a5
+|
+Qa1a2c3a6
+Ec4
+a4
+Qd3e5
+Ef1
+d1
+|
+Qc1a4
+Ed2
+d5
+Qd2c5
+Ed1
+c1
+|
+Qa1d5
+Xa/
+b2b3c4
+d5
+|
+Q.d3b6 {dot omitted in MS}
+Ea6
+Xa
+d3
+d2
+b2
+|
+a2a6
+d3
+c3c4
+a2
+Qd3c4a5
+b2
+|
+d2Xa
+a1
+b1
+d1
+|
+{^}
+a1a6
+d3
+c3
+d2
+|
+Qc2d3c4a5 {c2 editorially supplied}
+HXa///
+||

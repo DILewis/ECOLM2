@@ -1,0 +1,110 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Q.b2d3c4a5
+Ed2
+Qb2
+Ea2a4
+d3
+|
+H.c3c4a6
+Qc4
+|
+Qd3c4a5
+a2b3d6
+b2d3b6
+d2
+|
+H.a1a2c3a6
+Qa2
+|
+b2d3a5
+d3
+Q.d2d3Xa
+Eb2
+|
+a2
+d3
+c3a6
+a3
+c4
+a2
+b2a5
+d2
+|
+Qa1d5
+Ed2a4
+b2
+Q.a2d3a6 {rhythm sign erroneously aligned with previous note in MS (and resembles H.); MS has erroneous a5 for a6}
+Sd3
+a2
+|
+Qd3
+Xa///
+Ha5
+||
+{^}
+Qd6
+a2
+a2b3
+Eb2d3d4 {E supplied editorially}
+d2
+|
+Qa1c3c4
+Ea2
+d3
+Qc3a6
+Ec4
+a4
+|
+Qd3d5
+Ea2d3c5
+c3
+|
+H.b2d3c4a5
+Qb2
+|
+Qd2b3d6
+a1b2d6
+d2g3f4 {MS has g4 for f4, but gives f4 as performance option}
+Ef3
+d4
+|
+Qb2b3c4
+d5
+Xa/
+Ea1
+b1
+|
+Qd1a2c4
+Eb2
+a1d5
+d2a4
+c4
+b2d4
+d3
+|
+{^}
+a1c3c4
+d2
+b2a5
+d2 {followed by crossed out chord (b2a5?)}
+Qa2c3a6
+Ec4
+a3
+|
+c3a6
+c4
+Qb2Xa/
+Q.a2d3a6 {rhythm sign written over deletion}
+Sd3
+a2
+|
+Qd3
+Xa///
+Ha5
+||

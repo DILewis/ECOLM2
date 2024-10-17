@@ -1,0 +1,86 @@
+{File: 'Robinson/abc/Robinson33' Title: A Gigue}
+{abc Comment: %staff 1}
+H.a1d3c4a5
+| {bar 1}
+
+Qc2
+Ea2
+| {bar 2}
+
+Qd3
+Ea5
+| {bar 3}
+
+Ec2
+a1
+e5
+| {bar 4}
+
+Ed2a3c5
+c1
+a4
+| {bar 5}
+
+Ef1
+Qa5
+| {bar 6}
+
+Qd3
+Ea5
+| {bar 7}
+
+Ec2
+a1
+a5
+| {bar 8}
+
+Ea2d6
+d2
+c5
+| {bar 9}
+
+{abc Comment: %staff 2}
+{^ system 2}
+
+Ea3a4
+d3
+a5
+| {bar 10}
+
+Ed2
+a4
+a3
+| {bar 11}
+
+Eb3
+a2
+d6
+| {bar 12}
+
+Ed1
+d6
+d5
+| {bar 13}
+
+Ec1a4
+f1
+a3
+| {bar 14}
+
+Ec2d3
+a1
+a5
+| {bar 15}
+
+Ec3c4
+a2
+a6
+| {bar 16}
+
+H.d3c4a5
+| {bar 17}
+
+Ec2
+a1
+a5
+|| {bar 18}

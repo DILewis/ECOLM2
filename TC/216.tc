@@ -1,0 +1,162 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -1 -2 -2)</bass_tuning>
+	<rhythm_noteheads>none</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+{C.3 in margin}
+Qa2c3c4
+Ea2
+| {editorially supplied}
+Qa2b4c5
+Ea2
+|
+Ea2e6
+Ec6
+Ea6
+|
+Qa2c5
+Ea2
+|
+Ec2a5
+Ed2
+Ea1
+|
+E.c1c5
+Sa1
+Ee2
+|
+Qa1a2c4
+Ea6
+Qa1a2
+||
+{^}
+Ed3
+|
+E.d3a5
+Sa2
+Ec2
+|
+Qd3a5
+Ed3
+|
+E.a1a5
+Sd2
+Ec2
+|
+Qa2a6
+Ed3a5
+|
+E.a1e5
+Sd2c5
+Ec2a5
+|
+Ea2e6
+Ea6
+Ed3a5
+{^}
+E.a1e5
+Sd2c5
+Ec2a5
+|
+Ea2e6
+Ea6
+Ed3e5
+|
+E.d2a4
+Sa2
+Ec1a4
+|
+E.a1a5
+Sd2c5
+Ec2a5
+|
+E.a2e6
+Sd3
+Ec3
+|
+Qd3a5
+EXa/// {under/above ||; added later?}
+||
+{^}
+{cut C in margin}
+Qc2a5
+Sd3a5
+Sa2
+Ec2
+|
+Ed2a4
+Ec2
+a2
+d3
+|| {2 above ||}
+Ea1a5
+Ea1
+|
+Sc2a5
+Sd2
+Ea1
+|
+Ed2a4
+Ec2
+a2
+d3
+|| {2 above ||}
+{^}
+Sf1a5
+Sa1
+Ef1
+|
+Sc2a5
+Sd2
+Ea1
+|
+Ed2a4
+Ec2
+a2
+d3
+|| {2 above margin}
+Sc2a5
+Sa2
+Ec2
+|
+Sd3a5
+Sa2
+Ec2 {MS has Q}
+|
+Ed2a4
+Ec2
+a2
+d3
+|| {2 above ||}
+{^}
+{reversed cut C in margin}
+Sd3a5
+Sa2
+Ec2
+|
+Sd3a5
+Sa2
+Ec2
+|
+Sd3a5
+Sa2
+Ec2
+|
+Ea2
+Ed3
+|| {2 above ||}
+Ea1a5
+Ea1
+|
+Sc2a5
+Sd2
+Ea1 {E editorially supplied}
+|
+Sd3e5 {MS has E}
+Sa2 {MS has E}
+Ec2 {changed from a2}
+Ea2
+Ed3
+|| {2 above ||; unfinished?}

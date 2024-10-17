@@ -1,0 +1,114 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Ha1c2d3
+Xa///
+d2d3a4
+Xa
+|
+a1c2a5
+d3
+c1d2d3a4
+Xa
+|
+H.f1a4 {dot omitted in MS}
+Qd2
+{something crossed out; Hd2?}
+Hc2a5
+Qd2c5
+a1
+| {editorially supplied}
+Hc1a5
+Qa1
+Xa///
+|
+Hd2d3a4
+Xa
+||
+Ha1c2d3a5
+Qa1
+a1
+Ha1c2d3a5
+HXa///
+|
+{^}
+Hc1a4
+Qa1
+d2
+Wa1c2d3a5
+|
+Qd1a2b3d6 {Q editorially supplied}
+a5
+c5
+d5
+Hc1a4
+Qa1
+d2
+|
+Ha1Xa///
+Qd2
+c2
+Hd2Xa//
+Qc2
+a2
+| {editorially supplied}
+Hc2a5
+d3
+|
+Q.d2d3a4Xa {dot omitted in MS}
+Ea1 {MS has E.}
+Hc1
+|
+H.a1a5 {dot omitted in MS}
+Qd2
+Hd2d3a4
+Xa
+||
+{^}
+Wf1a4 {dal segno-type sign beneath this chord; repeat from here}
+| {editorially supplied}
+Q.d1a2c4
+Ed1
+Qc1
+a1
+|
+Q.c1a4
+Ec1
+Qa1
+d2
+|
+Q.a1a5 {dot omitted in MS}
+Ea1
+Qd2
+c2
+|
+Q.d2c5
+Ed2
+Qc2
+a2
+|
+Hc2a5
+Qd2d3 {d2 changed from a2}
+b3
+| {editorially supplied}
+a3
+c4
+Ha4
+|
+c2a5
+{^}
+Qd2
+a1
+| {editorially supplied}
+Q.c1a4
+Ec1
+Q.a1a5
+Ea1
+| {editorially supplied}
+Hd2d3a4
+Xa
+||

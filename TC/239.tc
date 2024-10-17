@@ -1,0 +1,122 @@
+{<rules>
+	<tuning_named>harpway-flat</tuning_named>
+	<notation>french</notation>
+	<pitch>65</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Qa2
+|
+Qa2a3a4a5Xa
+a5
+Ea4
+f2
+|
+e2
+a5
+a3
+a1
+Qc1c3c4
+|
+Hd1a2a4
+SXa
+f1 {slur encompassing next 2 notes and "slide" underneath}
+d1
+c1
+|
+Ea1
+a6
+d2
+c3
+Qb2
+|
+Qa2a3d4b6
+EXa///
+b2
+d2
+Xa//
+|
+Ea1
+a2
+Q.c3c4Xa/
+Sd4
+c3
+|
+Qd4
+b6
+d5
+|
+{^}
+Ha2a3d4
+||
+Ee3
+Sc3
+a3
+|
+Ed5
+c3
+Qc4
+e3
+|
+Qe3a4
+Q.c3
+Ea3
+|
+Qc4
+Ea5
+c4
+E.a4Xa// {dot omitted in MS; also incorrectly aligned with preceding note}
+Sc4
+|
+Q.d4 {dot omitted in MS}
+Eb5
+c4
+a4
+|
+Qc3Xa/
+c4d5 {MS has erroneous E}
+d2
+|
+d2a4
+Q.c2c4
+Ea2
+|
+Q.a2a3d4
+Ea1
+Qa1
+|
+Ea3c4
+a4
+Qc3
+e5
+|
+{>}
+{^}
+Qd1a2a3a4
+EXa
+d1
+Qd1
+|
+E.c1Xa/ {dot omitted in MS}
+Sd1
+Qf1Xa//
+c1
+|
+Qh1Xa///
+Ec1
+a1
+e2
+a2
+|
+a3
+c3
+Q.c4Xa/// {MS has erroneous Xa// for Xa///}
+Sa4
+e5
+|
+Qa4
+Xa
+a5
+|
+H.a1a2a3a4 {H. supplied editorially}
+||

@@ -1,0 +1,284 @@
+{abc Comment: %}
+{File: 'Robinson/abc/Robinson13' Title: Robinson's Riddle}
+{abc Comment: %}
+{abc Comment: %staff 1}
+Qd2
+Ea1
+| {bar 1}
+
+Ec1a4
+d2
+a2c3c4
+| {bar 2}
+
+Ed3e4
+f5
+d2c5
+| {bar 3}
+
+Ea1a5
+c2
+d3
+| {bar 4}
+
+Ec1a4
+c5
+d1a2d6
+| {bar 5}
+
+Ef1c2e4c6
+c1
+d2f3d6
+| {bar 6}
+
+Ed1a2c4a6
+a1
+c2d3a5
+| {bar 7}
+
+{abc Comment: %staff 2}
+{^ system 2}
+
+Ed2a3a4Xd
+d3
+a3
+|| {bar 8}
+Ed2
+Sa2
+c2
+d2
+a1
+| {bar 9}
+
+Sc1a4
+a1
+d2
+c2
+Ea2c3c4
+| {bar 10}
+
+Ed3e4
+Sa2a4
+c2
+Ed2c5
+| {bar 11}
+
+Sa1a5
+d2
+c2
+a2
+Ed3
+| {bar 12}
+
+Sc1a4
+d5
+c5
+a5
+Ed1a2d6
+| {bar 13}
+
+{abc Comment: %staff 3}
+{^ system 3}
+
+Sf1c6
+d1
+c1
+f2
+Ed2f3d6
+| {bar 14}
+
+Sd1a2a6
+c1
+a1
+d2
+Ec2a5
+| {bar 15}
+
+Ed2a4Xd
+d3
+a3
+|| {bar 16}
+Ea2b3d6
+d2
+a1
+| {bar 17}
+
+Ed2b3
+c5
+d1a2d6
+| {bar 18}
+
+Ec1a3a4
+d3
+a2
+| {bar 19}
+
+Ed3
+e4
+d2a4
+| {bar 20}
+
+{abc Comment: %staff 4}
+{^ system 4}
+
+Ec2d3a5
+a1
+c1
+| {bar 21}
+
+Ea1
+e5
+f1c2a5
+| {bar 22}
+
+Ea1a2c4e6
+c1d3c6
+f1
+| {bar 23}
+
+Qe1a2c4a6
+Ea1
+|| {bar 24}
+Ea2b3
+Sd6
+b2
+d2
+a1
+| {bar 25}
+
+Ed2b3
+c5
+d1a2d6
+| {bar 26}
+
+Ec1
+Sa4
+b3
+d3
+a2
+| {bar 27}
+
+{abc Comment: %staff 5}
+{^ system 5}
+
+Ed3
+e4
+d2a4
+| {bar 28}
+
+Ec2d3
+Sa5
+d2
+a1
+c1
+| {bar 29}
+
+Ea1
+e5
+f1c2a5
+| {bar 30}
+
+Ea1a2c4e6
+Sc1c6
+e1
+f1
+c1
+| {bar 31}
+
+Qe1a2c4a6
+Ea1
+|| {bar 32}
+Ec1a2a3c5
+a1
+a2c3c4
+| {bar 33}
+
+Qc2a5
+Ed3
+| {bar 34}
+
+Ef1a3
+d1a2c4
+c2
+| {bar 35}
+
+{abc Comment: %staff 6}
+{^ system 6}
+
+Qc1d2d3a4
+Ed2f3f4
+| {bar 36}
+
+Qd1a2c4
+Ea1c2d3
+| {bar 37}
+
+Qf1d2a3
+Ec1d2f3
+| {bar 38}
+
+Eh1f3f4
+f1f2h3h4
+f6
+| {bar 39}
+
+Qc1d2d3a4
+Ed2
+|| {bar 40}
+Ec1a2a3c5
+Sa1c4
+d2
+c2
+a2
+| {bar 41}
+
+Ec2
+Sa5
+a2
+d3
+b3
+| {bar 42}
+
+{abc Comment: %staff 7}
+{^ system 7}
+
+Ef1a3
+Sd1a2c4
+d3
+a2
+c2
+| {bar 43}
+
+E.c1d2d3a4
+Sa1
+d2f3f4
+Ta1
+c1
+| {bar 44}
+
+Ed1a2c4
+Sa3
+b3
+a1d3
+Tc1
+d1
+| {bar 45}
+
+Ef1a3
+Sb3
+d3
+c1a2
+Td1
+f1
+| {bar 46}
+
+Eh1f3f4
+Sf1h4
+i2
+h2
+f2
+| {bar 47}
+
+Qc1d2d3a4
+Ed2
+|| {bar 48}

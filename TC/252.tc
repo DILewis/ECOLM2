@@ -1,0 +1,175 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+{barred 3}
+Hf1h3a5 {MS has erroneous h2 for h3}
+Q.d3
+SXa///
+a2
+|
+E.c2
+Sa5
+E.e2d3e6
+Sc6 {originally E; corrected with stroke through tail}
+Q.a1a2c3e6
+Sc4
+a4
+|
+Ea1e5
+a5
+E.f1
+Sh1
+E.k1Xa/// {k1 has "or h"; performance option}
+Sh1
+f1
+e1
+h2
+f2
+|
+Ee2Xa//
+e1
+E.c1
+Tf2
+c1
+Qf2
+Ea6
+c5 {something crossed through on line 6}
+|
+{^}
+e5
+Ea1
+Sa3
+e1
+Ef1
+c5
+d2
+Sc4
+c1
+Ee1
+|
+a5
+c2
+a4
+c1
+e6
+a2
+{superfluous barline in MS}
+Se5
+d2
+Ef2
+|
+Sc6
+c3
+Ed3
+Sc5
+c2
+Ed2
+a6
+a3
+c3
+a4
+|
+{>}
+{^}
+Ee5 {rhythm sign editorially supplied; already established on previous folio}
+d3
+a1
+a4
+Ea1a2d3c4
+a6 {MS has Xa instead}
+c3
+d2
+|
+Hc2d3c4a5 {H editorially supplied}
+Xa///
+||
+SXa
+a4
+c4
+a3
+b3
+d3
+a2
+c2
+Ed2
+d3
+a3
+a4
+|
+E.c1 {dot omitted in MS}
+Sf1
+E.e1a2a6 {dot omitted in MS; MS has Xa for a6}
+Sh1
+Ef1a5
+a1
+c2
+d3
+|
+SXa///
+c4
+{^}
+a3
+c3
+d3
+a2
+c2
+d2
+Ec2
+a5
+a1
+a1e6
+|
+Sc1c6
+e1
+Ef1
+Xa//
+c1
+Xa/
+e1
+b1
+c2
+|
+Ec1
+c6
+d3
+e4
+c2
+e5
+d4
+Xa/
+|
+SXa
+a1
+Ec1
+{^}
+E.a1a6
+Sd2
+Ec2a5
+a1
+f3e6
+d2
+|
+Sd3c6
+a2
+Ec2
+E.a2Xa
+Sd3
+Ec3a6
+Xa/
+E.a1
+Sd2
+|
+Sc2
+a2
+c2Xa
+d2
+E.a2a6
+Td3
+a2
+Qd3
+Xa///
+||

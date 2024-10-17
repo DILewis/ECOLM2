@@ -1,0 +1,180 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Qc4
+|
+Q.d3c4a5 {dot omitted in MS}
+Ea2
+Qc2 {H in MS}
+|
+c2a5
+Q.a2a6
+Sd3
+a2
+|
+Qd3
+Ea5 {MS has Q}
+a2
+c2
+d2
+|
+Qa1
+a5
+e6
+|
+Q.c1c6
+Ee1
+Qf1
+| {editorially supplied}
+e1a6
+Q.c1c5
+Sf2
+c1
+|
+Qf2 {Q editorially supplied}
+a6 {MS has erroneous Xa instead}
+c4
+|
+Q.a1a2c3
+{^}
+Ec1 {rhythm sign aligned with next note in MS}
+e1
+a1
+|
+Qf1 {Q editorially supplied}
+c6
+a6
+|
+Q.Xa {dot omitted in MS}
+Ef1
+e1
+c1 {MS has erroneous a1}
+|
+Qe1
+a6
+Xa
+| {editorially supplied}
+Q.Xa/ {dot omitted in MS}
+Ee1
+c1
+a1
+|
+Qc1
+Xa
+Xa/
+|
+Q.Xa//
+Ec1
+a1
+e2
+|
+Qa1
+Xa/
+Xa//
+|
+{^}
+Q.Xa///
+Ea1
+d2
+c2
+|
+Qd2
+EXa// {MS has Q}
+a1
+c1Xa/
+a1
+|
+d2Xa
+c2
+Q.a2a6
+Sd3
+a2
+|
+Qd3
+Xa///
+a5
+|
+Hd3c4
+|:
+Qa2 {Q looks like H}
+| {editorially supplied}
+Q.a2c3a6 {dot omitted in MS}
+Ec6
+Qa2e6
+|
+Ed3a5
+c3
+Q.a3c5
+Sc4
+a3
+|
+{^}
+Qc4
+Ea6
+a3
+c3
+d3
+|
+Qa2
+a6
+Xa
+|
+c2Xa/
+d3
+a1
+| {editorially supplied}
+c2
+Ec1Xa
+a1
+d2
+c2
+|
+Qa2
+a6
+c4
+|
+Q.a1a2c3 {Q. editorially supplied}
+Ec1
+e1
+f1
+|
+Qh1
+a6
+h2Xa {MS has erroneous h3 for h2}
+|
+f1Xa/
+d2Xa//
+e1
+|
+{^}
+Qf1Xa///
+Ea1
+d2
+c2
+d3
+|
+Qf1
+e1Xa//
+c1e2
+|
+a1f2Xa/
+c2
+Ec1Xa
+a1
+|
+d2
+c2
+Q.a2a6
+Sd3
+a2
+|
+Qd3 {Q editorially supplied}
+a5
+Xa///
+| {editorially supplied}
+H.c2d3c4 {H. editorially supplied}
+||

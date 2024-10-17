@@ -1,0 +1,390 @@
+{abc Comment: %}
+{File: 'Robinson/abc/Robinson05' Title: A Galliard}
+{abc Comment: %}
+{abc Comment: %staff 1}
+E.d3c4a5
+Sa1
+E.b2
+Sd2
+Ea1
+d5
+| {bar 1}
+
+E.f3f4
+Sg3
+Ed2
+Sa1
+c1
+Ed1
+c4
+| {bar 2}
+
+Ea1d3
+b3
+d4
+f1f2
+E.d2
+Sf1
+| {bar 3}
+
+E.e1f2f3a6
+Si1
+Eh1i3
+f1g3
+e1f3a6
+a1
+| {bar 4}
+
+{abc Comment: %staff 2}
+{^ system 2}
+
+Ec4
+a1b2
+d1a2
+f1d3d4
+Sa4
+d1
+Eb1d3
+| {bar 5}
+
+Ea1d5
+c4
+Sb3
+d2
+Eb2d3
+Sa2
+b3
+Ed3d4
+| {bar 6}
+
+Eb3c4
+b2
+Sd5
+a2
+Ed3a4
+Sc4
+a2
+Ec3
+| {bar 7}
+
+Ea5
+a1c2d3
+Sc4
+d2
+c2
+a2
+Qd3
+|| {bar 8}
+{abc Comment: %staff 3}
+{^ system 3}
+
+S.d3c4a5
+Sa1
+b2
+a2
+b2
+d2
+Ea1
+d5
+| {bar 9}
+
+Sb3
+d3
+a2
+b2
+Ed2
+Sa1
+c1
+Ed1
+c4
+| {bar 10}
+
+Ea1d3
+b3
+d4
+f1f2
+Sd2
+f1
+e1
+c1
+| {bar 11}
+
+Ee1f2f3a6
+Sf1
+h1
+Ei1
+Sh1
+f1
+Ee1f2f3a6
+a1
+| {bar 12}
+
+{abc Comment: %staff 4}
+{^ system 4}
+
+Sc4
+b2
+a1
+c1
+Ed1a2
+f1d3d4
+Sa4
+d1
+Eb1
+| {bar 13}
+
+Sa1
+d5
+c4
+a3
+b3
+d2
+Eb2d3
+Sa2
+b3
+Ed3d4
+| {bar 14}
+
+Sc4
+b3
+Eb2
+Sd5
+a2
+d3
+a4
+c4
+a2
+Ec3
+| {bar 15}
+
+Ed3
+a5
+Sc4
+d2
+c2
+a2
+Qd3
+|| {bar 16}
+{abc Comment: %staff 5}
+{^ system 5}
+
+Ef2g4a6
+Qh1
+Ef1g3a5
+a2a6
+e1
+| {bar 17}
+
+Ea5
+S.f1f2g3
+Sa1
+b2
+d3
+a1
+b3
+c4
+d5
+| {bar 18}
+
+Sf4
+d2
+a2
+b3
+d2
+a4
+c5
+d6
+a4
+b2
+a2
+d3
+| {bar 19}
+
+E.a2b3a4d6
+Ed2
+d1
+a4
+| {bar 20}
+
+{abc Comment: %staff 6}
+{^ system 6}
+
+E.d2f3f4
+Ed1
+f1
+c4
+| {bar 21}
+
+E.a1b2d3
+Ef1
+i1f2
+h4
+| {bar 22}
+
+Ef4
+h1f2
+f1d4
+Sd2
+f2
+Ed2
+f1
+| {bar 23}
+
+Ee1f2f3a6
+a1
+Sc4
+d3
+c3
+a3
+Qc4
+|| {bar 24}
+{abc Comment: %staff 7}
+{^ system 7}
+
+Ef2g4a6
+Q.h1
+Ef1
+Ef1g3a5
+Sf3a6
+f1
+Ee1f2
+| {bar 25}
+
+Eg3a5
+S.f1
+Sa1
+b2
+d3
+a1
+b3
+c4
+d5
+| {bar 26}
+
+Sf4
+d2
+a2
+b3
+d2
+a4
+c5
+d6
+a4
+a2
+d3
+a3
+| {bar 27}
+
+E.a2b3a4d6
+Ed2
+d1
+{Text: "(1)"}
+a4
+| {bar 28}
+
+{abc Comment: %staff 8}
+{^ system 8}
+
+E.d2f3f4
+Ed1
+f1
+c4
+| {bar 29}
+
+Ed3
+a1
+b2
+f1
+i1f2
+h4
+| {bar 30}
+
+Ef4
+h1
+f1f2d4
+Sd2
+f2
+Ed2
+f1
+| {bar 31}
+
+Ee1f2f3a6
+Sd2
+c2
+a2
+d3
+c3
+a3
+Qc4
+|| {bar 32}
+{abc Comment: %staff 9}
+{^ system 9}
+
+Ea1
+d5
+c1d2c5
+b2
+e1a2c4
+d2
+| {bar 33}
+
+E.f1g3a5
+Ed1a2
+b1d3
+a1
+| {bar 34}
+
+Ea1
+b3
+Sd4
+a1
+d2
+b2
+d2
+a1
+b2
+d2
+| {bar 35}
+
+Ea1
+c4
+Sa6
+d3
+c3
+a3
+Qc4
+| {bar 36}
+
+{abc Comment: %staff 10}
+Ec3c4
+Sa3
+c3
+Ed3a4
+d5
+a2c3c5
+d2
+| {bar 37}
+
+Eb2d3a5
+Sf1
+h1
+Qi1
+Ea4
+h1a2
+| {bar 38}
+
+Ef1g3
+a5
+f3a6
+f1
+d2
+e1
+| {bar 39}
+
+Ea5
+f1f2h3
+c4
+d2
+Qc2d3c4a5
+|| {bar 40}
+{abc Comment: %}

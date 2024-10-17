@@ -1,0 +1,97 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>none</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+E.a1a2c3a6
+Sc1
+Ed1a2c4
+Sc1
+Sa1
+|
+Eh1a2Xa/ {bass note changed from Xa for larger instrument}
+Ec1
+Ee2
+Ea2
+|
+Ed2a3c5
+Sa1
+Sd2
+Sc2a3c6
+Sa2
+Ec2a3
+|
+Ea2a3c5
+EXa/ {Xa in MS; should have been corrected when piece was altered for larger instrument}
+Qa2a3
+|
+E.h1a2Xa/ {Xa in MS; should have been altered}
+Sk1
+El1
+Eh1
+|
+E.f1a3a4
+Sd1
+Sc1
+Sa1
+Eh1d2f4d6
+|
+E.f1a5
+Sd2
+{^}
+Sc1
+Sa1
+Ec1a2a3Xa/ {bass note orig. Xa}
+|
+Qa1a2c3a6
+Qc4
+:|:
+E.c1a3a4
+Sd1
+Ef1
+Sc1
+Sd1
+|
+Sf1a4
+Sd1
+Sc1
+Sa1
+Ec1a2a3c5
+EXa/ {orig. Xa; letter on 1 deleted (illegible)}
+|
+S.d1a2a6
+Tf1
+Eh1
+Se4
+Sh1 {barline deleted}
+Eg1
+|
+Eh1a2a3Xa/ {bass note orig. Xa}
+Ea2
+QXa/ {orig. Xa}
+:|:
+Eh1a2Xa/ {bass note orig. Xa}
+Ee1
+Ef1
+Ec1
+|
+Ed1a2c4
+Sc1
+Sa1
+{^}
+Ee2a3c5
+Ea2
+|
+Eh1d2f4d6
+Sf1a5
+Sd1
+Sc1a2c5
+Sa1
+Ec1a2Xa/ {bass note orig. Xa}
+|
+Ea1a2c3a6
+Ec4
+Qa6
+||

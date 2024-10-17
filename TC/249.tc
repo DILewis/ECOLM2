@@ -1,0 +1,73 @@
+{<rules>
+	<tuning_named>french-flat</tuning_named>
+	<notation>french</notation>
+	<pitch>63</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Qc1a2a3a4Xa
+c1a2a3a4
+c1a2a3a4
+|
+Q.a1a5 {H written above Q.; almost looks like Xd in piece above}
+Eb2
+Qa2
+|
+a3
+Q.c3Xa/
+Sa3
+c4
+|
+Qa3
+Hb6
+|
+Qa2a3d4b6
+a2a3d4
+a2a3d4
+|
+{^}
+Q.c3Xa/
+Ee3
+Qa3Xa
+|
+a4
+Q.c4Xa///
+Sa4
+e5
+|
+Qa4
+HXa
+||
+Qf1a2a3Xa {Q editorially supplied}
+f1a2a3
+f1a2a3
+|
+Q.e1Xa/
+Ef2
+Qa1
+| {editorial addition}
+Qh1
+Q.c1d6
+Sa1
+c2
+|
+Qa1
+HXa/
+|
+{^}
+Qb2a3Xa//
+a1
+c1
+|
+Qb1Xa///
+a2
+f1
+|
+QXa
+Q.e1a5
+Sf2
+e1 {MS has c1 instead}
+|
+Qf2
+HXa
+||

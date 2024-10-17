@@ -1,0 +1,192 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Qa1a2c4a6
+Ea1
+c1
+Qd1a2c4a6
+Ec1
+a1
+|
+Qh1
+a2
+HXa//
+|
+Q.a2a3c5 {dot omitted in MS}
+Ec2
+Qe2a3c5
+Ec2
+a2
+|
+Qa1
+a6
+Hc4
+|
+Q.b3c4a6
+Eb3
+Q.d3a4Xa {dot omitted in MS}
+Ed3
+|
+Ea2d6
+Eb2
+E.d2 {dot omitted in MS}
+Sb2 {stem only}
+Q.a2b3a4d6
+Ea2 {E supplied editorially}
+|
+{^}
+E.c2a5
+Se2
+Qa1
+E.e2a3Xa// {dot omitted in MS}
+Sa1
+Qc1
+| {editorially supplied}
+a1a2c3a6
+c4
+Ha6
+:|:
+E.a1a6 {dot omitted in MS}
+Sc1
+Ed1
+f1
+Qh1
+h1
+|
+f1a5
+d1a6 {something deleted on line 5}
+Hc1a2Xa//
+|
+E.a1a6
+Sa1
+Ee2
+c2
+Qa2a3c5
+Xa//
+| {MS has :|: which should be at end of next bar}
+e2a3Xa//
+a2
+Hc1
+:|: {MS has erroneous |}
+{^}
+Qd1a2a6 {Q editorially supplied}
+a1
+Hh1
+|
+Q.f1a4
+Ed1
+c1
+d1
+f1
+c1
+|
+Wd1a2b3d6
+:|:
+Hd1d2f4
+Qh1
+Ef1 {E editorially supplied}
+d1
+|
+Hc1a4
+Hf1
+|
+d1
+c1
+|
+Ha1a2c4a6
+Qd1
+{c1 with ornament sign crossed}
+Ec1 {E editorially supplied}
+a1
+|
+Wc1a2b4c5 {b3? crossed through}
+|
+Qd2 {Q editorially supplied}
+d1
+h1
+c1a4
+{barline omitted}
+{^}
+d2
+c1
+f1
+a1a2c4
+| {editorially supplied}
+Ha6 {H editorially supplied}
+Qd1
+Ec1
+a1
+|
+Hc1a2b4c5 {MS has erroneous b3c4 for b4c5}
+H
+||
+Qe1a2a6 {a2 blurred or crossed?}
+e1
+e1
+a1
+| {editorially supplied}
+Ee1a6
+f1
+Qh1
+h1
+e1
+| {editorially supplied}
+f1
+h1
+k1
+Eh1 {E editorially supplied}
+f1
+|
+H.e1f2a6
+||
+Qa1
+|
+Q.a1a6
+Ec1 {erroneously dotted in MS}
+Qe1
+Q.e1a6
+Ef1
+Qh1
+|
+{>}
+{^}
+H.a2a3c5
+HXa//
+Qa2
+|
+Q.a2Xa//
+Ec2
+Qe2
+Q.e2Xa//
+Ea1
+Qc1
+|
+H.d3c4a5 {dot omitted in MS}
+HXa///
+Qd3
+|
+Q.d3c4a5 {dot omitted in MS}
+Ea2
+Qc2
+Q.c2a5
+Ed2
+Qa1
+|
+Hc3a6
+Qa1
+Q.e1a6
+Ef1
+Qh1
+| {editorially supplied}
+Q.c1a2Xa//
+Ea1
+Qc1
+{^}
+a1a2c3a6
+c4
+a6
+||

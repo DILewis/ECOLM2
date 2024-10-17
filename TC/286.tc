@@ -1,0 +1,237 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Hf1
+|
+E.h1
+Sk1
+Hl1
+Ek1a5 {MS has Q}
+h1
+|
+Qf1h2a4
+Xa
+a4
+f1h2
+|
+h1i2
+f1h2
+d1f2 {ornament sign crossed through before f3}
+c1d2
+|
+a1c2d3a5
+Xa///
+{^}
+Qa5
+Ef1
+d1
+|
+Qc1d2d3Xa
+Ed1
+f1
+Qh1f4
+Ea5
+f1
+| {editorially supplied}
+d1d5
+f1
+c1a4
+d1
+Ea1c2d3a5
+Sd2
+a1
+c1
+d1
+Ef1a3
+|
+d1b3
+c1d3
+a1f3
+d2
+Qa1d2d3a5
+Ec2
+d1
+|
+Qc1d2d3a4 {Q editorially supplied}
+Xa
+a4
+f1
+|
+E.h1 {dot omitted in MS}
+Sk1
+Ql1
+k1a5
+h1
+|
+{^}
+Qf1a4
+EXa
+d1
+f1
+c1
+d1a4
+f1
+|
+Qh1f4
+Ea5
+f1
+d1d5
+f1
+c1a4
+d1
+|
+Q.a1c2d3a5
+Sa3
+c3
+d3
+a2
+c2
+d2
+a1
+c2
+d2
+a1
+|
+Ec1
+a4
+a1
+d2 {followed by crossed through d2}
+f4
+h1
+d3
+f1
+|
+{>}
+{^}
+b2
+d1
+d2
+c1
+E.a1d3
+Sd2
+a1
+c1
+d1
+f1a4
+|
+Ed1b3 {E is erroneously aligned with last note of previous bar in MS}
+c1d3
+a1f3
+d2
+Qa1d2d3
+Ec2a5
+d1
+|
+Qc1d2d3a4 {Q supplied editorially}
+Xa
+Ha4
+||
+Q.d1f2g3d5
+Ef1
+Qd1
+c1a4
+|
+a1c2d3a5
+Xa///
+a5
+c1d2d3a4
+|
+a1d3e5
+{^}
+d2d3a4
+c2d3a5
+d2d3a4Xa
+|
+Qa1c2d3a5
+Ed3
+c4
+HXa///
+|
+Qd3c4a5 {d2 crossed through}
+EXa///
+a2
+c2d3
+a5
+d2d6
+c6
+|
+a1a6
+c1
+d1c4
+a1
+Q.f1d2Xa
+Ec6
+|
+E.d1a2d6 {MS has Q}
+Sa5
+Ec5
+c1
+a1a5
+d2
+Qa1
+| {editorially supplied}
+Qd2d3a4
+Xa
+Ha4a5
+|
+{^}
+E.a1b2d5 {dot omitted in MS}
+Sc1
+Qd1
+E.d2c5 {dot omitted in MS; erroneous a2 for c5 in MS}
+Sa1
+Qc1
+|
+E.c2a5 {dot omitted in MS}
+Sd2
+Qf2
+d3
+f1a4
+|
+f1e5
+E.c1a4 {dot omitted in MS}
+Se1
+Qf1a5
+f1a4 {a4 followed by crossed e4; both with separate alignment lines to upper note}
+|
+f1e5
+E.c1a4
+Se1
+Hf1a5
+| {editorially supplied}
+E.d3a5 {dot omitted in MS}
+Sa2
+c2
+a5
+d6
+c6
+Ea1a6
+{^}
+c1
+d1c4
+a1
+|
+Qf1d2a4
+E.Xa {dot omitted in MS}
+Sd1
+Ec1
+c6
+a1d6
+d2
+|
+c2a5
+Sa2 {S supplied editorially}
+c2
+E.d2c6 {dot omitted in MS}
+Sa1
+Ec1
+Sa1d6 {MS has E}
+d2
+Qa1a5
+|
+H.d2d3a4Xa
+||

@@ -1,0 +1,114 @@
+{<rules>
+	<tuning_named>harpway-flat</tuning_named>
+	<notation>french</notation>
+	<pitch>65</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Qa2
+| 
+Qa2a3a4
+d5
+a1a3b5
+|
+Q.e2e3a5
+Sc2
+e2
+Qe3
+|
+a1a2d6
+b6
+c1a6
+|
+Hd1a3a4Xa {d1 is ambiguous; almost d2!}
+Qa2
+|
+Q.a2a3d4
+Eb2
+d2
+a1
+|
+Hd2e3Xd
+Qc4
+|
+c4d5
+Q.a3
+Sc3 {MS has erroneous E}
+a2
+|
+Qc3Xa/ {Q editorially supplied}
+Q.a3Xa
+Sc4
+a3
+|
+{^}
+Qc4
+Xa///
+a5
+|
+Hc4
+Qd4a5Xa
+|
+c3Xa/ {MS has erroneous Xa for Xa/}
+d5
+a2b6
+|
+Q.b2a3a4Xa//
+Ea2
+Qc3Xa/
+|
+Qa3
+b6
+d5
+|
+Ha3d4
+||
+Qa2
+|
+Q.a2a3d4
+Eb2
+d2
+b2
+|
+Qa2b6
+b2
+c3a6
+|
+a2b6
+c2d6
+d2
+|
+Hd2c3c4
+Qc3Xa/
+|
+{^}
+Hc3c4d5Xa/
+Qa2b6
+|
+Ha3a4b5Xa//
+Qc3d6
+|
+H.c4e5f6Xa///
+|
+H.a3a4a5Xa
+| {editorially supplied}
+H.c3a4b5d6
+| {editorially supplied}
+H.c4d5d6Xa/
+|
+Q.a3d4d5b6
+Ec3
+a2
+c3
+|
+Qa3Xa
+Q.c4Xa/// {dot omitted; MS has erroneous c3 for c4}
+Sa4
+e5
+|
+Qa4
+Xa
+a5
+|
+Ha4f5
+||

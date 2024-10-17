@@ -1,0 +1,121 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+E.a2b3a4d6
+Sb2
+Ed2b3a4d6
+Ed2b3
+|
+Eb2d3c4a5
+Ea2b3
+Ed3a4
+Eb3a4d6
+|
+Ed1a2b3d6 {b3 blurred/smudged}
+Ed1a2
+Ed1a2b3d6
+Ed1a2
+|
+Ec1d2d3a4
+Ea1b3 {b3 smudged; b2 partially deleted}
+Qd2a3c5
+|
+E.a2b3d6 {MS has erroneous a3Xa for b3d6}
+Sb2
+Ed2b3a4d6
+Ed2b3
+|
+Ea1b2d5
+Ed2b3a4d6
+Ed1a2b3d6
+Ed2b3
+|
+E.d1d2f3d6
+Sf1
+Eh1
+Ed1 {changed from something else}
+|
+Ef1c2d3a5
+Ec1
+Qd1a2b3d6
+|
+{^}
+Ed1a2b3d6
+Qd1a2 {rhythm sign changed from E}
+Ef1c2d3a5
+Qh1d2f4d6 {rhythm sign changed from E}
+{barline crossed out}
+Ea1a2c4
+Qa1a2c4
+Ec1
+Qd1a2b3d6
+|
+Ea2a3c5
+Qa2a3
+Eb2d3
+Qd2b3a4d6
+Qd1a2b3d6 {MS has erroneous b2a3 for a2b3}
+Ec1
+Ea1
+Qd2b3a4d6
+|
+Ed1a2b3d6
+Qd1a2
+Ef1c2d3a5
+Qh1d2f4d6
+Ea1a2c4
+Qa1a2c4
+Ec1
+Qd1a2b3d6
+|
+Ea2a3c5
+Qa2a3
+Eb2d3
+Qd2b3a4d6 {MS has erroneous a3b4 for b3a4}
+|
+Eb2d3c4a5
+Ea2b3
+Qd3a4
+Hb3a4d6
+||
+{^}
+a2c5
+d5 {c3(?) crossed out}
+a2a6
+c6
+a2a6
+d5
+a2c5
+a5
+d4
+a1a5
+d4
+a1a5
+{d5 crossed out}
+c5
+d5
+d4
+c4
+{^}
+c2a5 {c1 crossed out}
+d2 {d3 crossed out}
+a1a6
+c1
+a1a6
+d2
+c2a6
+a2
+d3
+a2a6 {?1 & Xa crossed out}
+d3
+a2a6
+c2
+d2Xa {a6 crossed out}
+c2
+a2a6
+d3
+c3

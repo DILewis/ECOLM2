@@ -1,0 +1,59 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+E.a2a3Xa//
+Sc2
+Ed2
+a1
+Qc1
+a2
+|
+d2a3c6
+c2
+a2a3c5
+Xa//
+|
+E.d2d3a4Xa
+Sa1
+Ec1
+d1
+Qf1
+d2
+|
+a1a5
+c2
+d2d3a4
+Xa
+|
+E.d2d3a4
+Sa1
+Ec1
+d1
+{superfluous barline here}
+Qf1
+d2
+|
+E.c2a5
+{^}
+Sa2
+Ec2 {E supplied editorially}
+d2
+Qa1
+c2
+|
+E.a2a3Xa// {dot omitted in MS}
+Sc2
+Ed2
+a1
+Qc1
+a2
+|
+d2a3c6
+c2
+a2a3c5 {MS has erroneous c4 for c5}
+Xa//
+||

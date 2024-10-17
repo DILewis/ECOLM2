@@ -1,0 +1,53 @@
+{<rules>
+	<tuning_named>Gaultier</tuning_named>
+	<notation>french</notation>
+	<pitch>64</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Ha1a2d3c4a5
+Qd1
+|
+Hd1Xa///
+Qa2
+|
+Hc2c3c4
+Qa6
+| {editorially supplied}
+Hc2c3
+Qd1
+| {editorially supplied}
+Q.d1a5 {dot omitted in MS}
+Ef2 {MS has f1 instead}
+Qa1
+|
+Hc2a6
+Qa2
+|
+H.d3c4a5
+| {editorially supplied}
+H.Xa///
+:|:
+Ha3Xa {H supplied editorially}
+Qa4 {Q supplied editorially}
+| {editorially supplied}
+Ha3Xa {H supplied editorially}
+Qa4 {Q supplied editorially}
+|
+Qc3a6
+Hc4
+| {editorially supplied}
+Hc4Xa/
+Qc4
+|
+Q.a3a4
+Ec3 {a4 crossed through}
+Qd3 {preceding ornament sign crossed}
+|
+Hc2a6
+Qa2
+|
+H.d3c4a5 {dot before rhythm sign}
+| {editorially supplied}
+H.Xa///
+||

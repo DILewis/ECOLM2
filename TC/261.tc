@@ -1,0 +1,70 @@
+{<rules>
+	<tuning_named>Gaultier</tuning_named>
+	<notation>french</notation>
+	<pitch>64</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+{barred 3}
+Ea1
+b1
+|
+Hd1a5
+Qa1
+|
+Q.d1Xa///
+Ef2
+Qa1
+|
+Q.b1a2a3a4Xa
+Ea1
+Qc2
+|
+Hc2c3c4a6
+Ea1
+b1
+|
+Hd1a5 {changed from H}
+Qa1
+| {editorially supplied}
+Q.b1a2a3a4
+{^}
+Ea1
+Qc2
+| {editorially supplied}
+Qa1 {MS has E}
+Xa///
+a5
+| {editorially supplied}
+Hd3c4
+:|:
+Qi1
+|
+Q.i1a5 {dot omitted in MS}
+{erroneous barline in MS}
+Eh1 {E supplied editorially}
+f1
+h1
+| {editorially supplied}
+Hi1Xa///
+Qa1
+|
+Hb1a2a3Xa {H supplied editorially}
+Qc2 {Q supplied editorially}
+| {editorially supplied}
+Hc2c3c4a6 {Ms has erroneous Xa for a6}
+Qd1
+|
+Q.d1a5
+Ef2 {MS has erroneous f1 instead}
+a1
+f2 {MS has erroneous f1 instead}
+|
+Hd1
+Qc2
+| {editorially supplied}
+Qa1a2d3c4a5
+HXa///
+|
+d3c4
+||

@@ -1,0 +1,367 @@
+{File: 'Robinson/abc/Robinson02' Title: Twenty waies upon the bels (two lutes)}
+{abc Comment: %staff 1}
+Qd2
+f1
+d1
+| {bar 1}
+
+Hc1
+Qa1
+|| {bar 2}
+Qd2
+f1
+d1
+| {bar 3}
+
+E.c1
+Sa1
+d2
+
+Qa1
+|| {bar 4}
+Qh1
+f1
+d1
+| {bar 5}
+
+Hc1
+Qa1
+|| {bar 6}
+Qh1
+Ef1
+h1d2
+f1
+
+| {bar 7}
+
+{abc Comment: %staff 2}
+{^ system 2}
+
+Qc1
+Ea1
+d2
+c1
+a1
+
+|| {bar 8}
+Sd2
+a1c2
+d1
+
+Ef1
+c1
+
+d1
+a1
+
+| {bar 9}
+
+Qc1
+Sd1
+c1a2
+d2
+
+Qa1
+|| {bar 10}
+Sa4
+c4
+a2
+b3
+
+Ed3
+a3
+b2
+c4
+
+| {bar 11}
+
+{abc Comment: %staff 3}
+{^ system 3}
+
+Qe4
+Sf4
+e4
+c3
+a4
+
+Qc4
+|| {bar 12}
+Ea4
+a2
+
+d3
+d2
+
+c2
+a1
+
+| {bar 13}
+
+Ed2
+d1
+
+c1
+h1
+
+f1
+d1
+
+|| {bar 14}
+Ec1
+d1
+
+Qf1
+d1
+| {bar 15}
+
+Ec1a2
+c2
+Qd2
+a1c2
+|| {bar 16}
+{abc Comment: %staff 4}
+{^ system 4}
+
+Ed2a3
+b3
+
+d3
+a3
+
+a2b3
+c4
+| {bar 17}
+
+Ec1a4
+d1
+
+f1
+c1
+
+d1c4
+a1
+
+|| {bar 18}
+Ec1a4
+a2
+Qd3
+Ef4
+h1
+
+| {bar 19}
+
+Qf1a3
+Ec4
+d1
+
+c1d3
+a1
+
+|| {bar 20}
+{abc Comment: %staff 5}
+{^ system 5}
+
+Ed2
+h1
+
+f1
+d1
+
+c1
+a2
+
+| {bar 21}
+
+Ed3
+b3
+a3
+h1
+
+f1
+d1
+
+| {bar 22}
+
+Ec1
+d3
+
+a2
+c2
+
+d2
+a1
+
+| {bar 23}
+
+Ed2
+d3
+
+a2
+c2
+
+d2
+a1
+
+|| {bar 24}
+Qd2
+f1
+a1
+
+| {bar 25}
+
+{abc Comment: %staff 6}
+{^ system 6}
+
+f1
+l1
+f1
+|| {bar 26}
+Ec1
+c1
+
+f1
+c1
+
+f1
+c1
+
+| {bar 27}
+
+H.d2
+|| {bar 28}
+Qa4
+d3
+c4
+| {bar 29}
+
+d3
+d2
+d3
+|| {bar 30}
+Ea3
+a3
+
+d3
+a3
+
+d3
+a3
+
+| {bar 31}
+
+{abc Comment: %staff 7}
+{^ system 7}
+
+E.a4
+Ee4
+Qc4
+|| {bar 32}
+E.a4
+Ec1
+Qa1
+| {bar 33}
+
+E.d2
+Ea3
+c4
+c2
+|| {bar 34}
+\1
+Ea4
+Sc1
+d1
+
+Ef1
+Sa1
+c1
+
+Ed1
+Sd2
+a1
+
+| {bar 35}
+
+{abc Comment: %staff 8}
+{^ system 8}
+
+Ec1
+Sa2
+c2
+
+Ed2
+Sd3
+a2
+
+c2
+d2a3
+c2
+
+| {bar 36}
+
+Sd2
+c2
+d1
+a1
+
+c1
+a1c2
+d1
+
+f1
+d1c2
+a1
+
+| {bar 37}
+
+Sc1
+d2a3
+c1
+
+d1
+c1a2
+d2
+
+{abc Comment: %staff 9}
+{^ system 9}
+
+c2
+a2
+d2
+b3
+
+| {bar 38}
+
+Sa3
+c4
+a2
+b3
+
+d3
+a3
+b2
+d3
+
+a2
+c2
+d1
+a1
+
+| {bar 39}
+
+Sc1
+d1f2
+h1
+
+i1
+h1f2
+i2
+
+f1
+i2
+h1
+f2
+
+| {bar 40}
+
+H.d2
+|| {bar 41}

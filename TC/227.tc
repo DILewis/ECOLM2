@@ -1,0 +1,84 @@
+{<rules>
+	<tuning_named>Gaultier</tuning_named>
+	<notation>french</notation>
+	<pitch>64</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Qa1
+|
+H.a1a2d3c4a5 {dot omitted in MS}
+|
+Ec2a6
+e2
+Q.c2 {dot omitted in MS}
+Sa2
+c3
+|
+Qa2
+c6
+e5
+|
+Q.a2a3e4
+Ea2
+c2
+a1
+|
+Qb1a2a3a4
+EXa
+d1
+E.b1
+Sa1 {MS has Q; should be on next note}
+|
+Qb1 {Q editorially supplied}
+E.a1a5 {MS has erroneous Q}
+Sc2
+Qa1
+|
+c2
+a6
+c4
+|
+Hc2c3c4
+||
+Qd1
+|
+{^}
+Qa6
+d1c2c3
+a1
+|
+Q.a1a2c6
+Ec2
+Qa1
+|
+Qb1a2a3a4
+EXa {rhythm sign incorrectly aligned with next note in MS}
+d1
+b1
+a1
+|
+c2a6
+e2
+c2
+a2
+Qc2 {Q editorially supplied}
+|
+e2
+Xa/
+c2
+|
+Qa2
+Ec3
+a2
+QXa {Q supplied editorially}
+|
+Q.c2a6
+Sa2
+c3
+Qa2
+|
+Xa///
+a5
+Hd3c4 {irregular bar length}
+||

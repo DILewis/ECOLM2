@@ -1,0 +1,254 @@
+{abc Comment: %}
+{File: 'Robinson/abc/Robinson19' Title: A Toy}
+{abc Comment: %}
+{abc Comment: %staff 1}
+Qa1a2b3c4
+a1
+a2b3c4
+| {bar 1}
+
+Q.d2a3c5
+Ea1
+Qc1
+| {bar 2}
+
+Qa1a2b3c4
+Eb2d3
+a1
+Qa2f3
+| {bar 3}
+
+E.d1a2c4
+Ef1
+c1a2
+d3
+| {bar 4}
+
+Ed1d2f4
+f1
+h1
+a3
+d1a2c4
+c2
+| {bar 5}
+
+Qf1d2a3a4
+c1
+Ed2f3f4
+a3
+| {bar 6}
+
+{abc Comment: %staff 2}
+{^ system 2}
+
+Qa1a2b3c4
+Eb2d3
+a1
+Qa2f3
+| {bar 7}
+
+Q.d1a2c4
+Ef1
+Qc1a2a3c5
+|| {bar 8}
+Qa1a2b3c4
+Ea1
+a3
+a2b3
+c2d3
+| {bar 9}
+
+E.d2f3
+Ea1d3
+c1a3
+b3
+| {bar 10}
+
+E.a1d3
+Sa2
+Ea1b2
+d3
+Qa2f3
+| {bar 11}
+
+E.d1a2c4
+Ef1
+c1a2
+d3
+| {bar 12}
+
+{abc Comment: %staff 3}
+{^ system 3}
+
+E.d1d2f4
+Sf1
+Eh1
+h5
+a4
+c1d2c5
+| {bar 13}
+
+Ef1c2a5
+a2
+d3
+d1
+c1
+Sa1
+c1
+| {bar 14}
+
+Ea1
+b3
+c4
+a1
+a2
+b3
+| {bar 15}
+
+Ed1
+d3
+a2
+f1c2
+Qc1e2
+|| {bar 16}
+Ea1c4
+a5
+a1d5
+a4
+a2b3c4
+c2
+| {bar 17}
+
+{abc Comment: %staff 4}
+{^ system 4}
+
+Ed2f3
+d6
+c5
+a1e5
+c1a4
+d3
+| {bar 18}
+
+Ea1c4
+a3
+a1b3
+d3
+Qa2f3
+| {bar 19}
+
+Ed1
+Q.f2
+Ed2
+Ef1g3
+c1a2
+d3
+| {bar 20}
+
+Ed1b3
+f1a3
+h1f4
+h4
+c1a2
+d1
+| {bar 21}
+
+Ef1a3
+b3
+d3
+c1
+d2
+f3
+| {bar 22}
+
+{abc Comment: %staff 5}
+{^ system 5}
+
+Ea1b3
+c4
+a1d3d5
+a5
+a2d6
+c6
+| {bar 23}
+
+Ed1a2a6
+c6
+d6
+a5
+Qc1a2a3c5
+|| {bar 24}
+E.a1a2b3c4
+Sd2
+c2
+a2
+d3
+a2
+c2
+| {bar 25}
+
+Ed2a3c5
+c2
+d2
+a1
+c1
+a4
+| {bar 26}
+
+Ea1
+Sd5
+c5
+Ea5
+Sd2
+b2
+Ea2
+Sd6
+c6
+| {bar 27}
+
+{abc Comment: %staff 6}
+{^ system 6}
+
+Ea6
+Sa1
+c1
+d1
+c1
+d1
+f1
+Ec1
+Sa2
+d3
+| {bar 28}
+
+Eb3
+Sd1
+f1
+Qh1
+Ed1
+Sa3
+c4
+| {bar 29}
+
+Ea4
+f1
+d3
+c1
+d2
+a3
+| {bar 30}
+
+Ec4
+a1
+a2
+c4
+b3
+a2
+| {bar 31}
+
+Ed1
+c4
+f1a5
+d1
+Qc1a2a3c5
+|| {bar 32}

@@ -1,0 +1,147 @@
+{<rules>
+	<tuning_named>harpway-flat</tuning_named>
+	<notation>french</notation>
+	<pitch>65</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Qh1
+|
+Q.h1a2a3a4a5Xa
+Eh1
+h1
+h1
+Qf1e5 {Q editorially supplied}
+|
+Ed1a4 {E editorially supplied}
+f1
+E.c1a5 {dot omitted in MS}
+Sa1
+Qa1a2a3a4
+Ed2c4
+b2
+|
+E.a2d4 {dot omitted in MS}
+Sb2
+Ed2
+a1
+c4
+d2
+b2d4
+a2
+|
+Ec3
+d5
+c4
+a2
+a3
+Qa4 {Q corrected from E}
+Sc3
+a3
+|
+Ec4
+a5 {something crossed through on line 5}
+a3
+b5
+a4
+Qd6 {rhythm sign erroneously aligned with next note in MS}
+Sb2 {rhythm sign erroneously aligned with next note in MS}
+a2
+|
+{^}
+Ec3
+d5
+d2
+b5
+a5
+Qd2
+Sd1
+c1
+|
+Ea1b5
+d2
+Eb2Xa//
+a2
+c3Xa/
+e3
+E.c3
+Sa3
+|
+Ea3
+b6
+d5
+d4
+Ha2a3d4
+||
+Ec3
+|
+Q.c3c4d5Xa/ {MS has erroneous d4c5 for c4d5}
+Ec3
+c3
+c3
+e3
+c3
+|
+Ea3
+QXa
+Sc3
+a3
+Ec4
+Xa///
+{^}
+E.d4 {MS has erroneous Q}
+Sc4
+|
+Ea4
+Xa//
+c4
+a3
+E.c4Xa/
+Sa3
+Ec3 {rhythm sign aligned with next note}
+e3
+|
+a3
+b6
+d2
+a1
+c4d6
+d2a4
+b2
+Ed2
+| {barline erroneously placed before Ed2 in MS}
+a2
+a5
+c3
+a2
+c3
+a1
+c4
+a4
+|
+Se5
+a2
+Qc1
+Sc6
+d2
+Qa1
+Ed6
+b2
+|
+{^}
+Ea2
+a5
+c3
+a2
+a3
+c3
+E.c4Xa/// {MS has erroneous Q.} 
+Se5 {MS has erroneous E}
+|
+Ea4
+Xa
+{superfluous barline here}
+a5
+a4
+Ha1a2a3
+||

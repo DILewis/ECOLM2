@@ -1,0 +1,121 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+{barred 3 in MS; would appear to be erroneous}
+Qf1
+|
+f1d2a4
+EXa
+d1
+c1
+a1
+Qd2
+|
+f1d2a4
+a5
+Qa4
+{^}
+Ed1c5
+f1
+|
+Qh1f4 {Q supplied editorially}
+f1e4
+d1d2f3 {MS has erroneous f4 for f3}
+c1d2d3a4
+|
+a1c2d3a5
+c4
+Xa///
+d3
+| {editorially supplied}
+Qd3a4Xa
+Ea5
+b3
+a3
+c4
+Qa3
+|
+d3a4Xa
+a5
+a4
+Eb3 {MS has Q}
+Ed3
+|
+a2d6
+b2
+d3c6
+a2
+b3a6 {MS has erroneous Xa for a6}
+d3
+a3Xa {MS has erroneous a2 for a3}
+b3 {MS has b2 instead}
+|
+{^}
+Qd3c4a5
+Xa/// {MS has erroneous Xa// instead}
+d3c4
+Ec2
+d2
+|
+Qa1c2d3a5
+c4
+Xa///
+Ea1
+c1
+|
+Qd1d6
+a4
+d1a2b3 {b3 changed from something?}
+Ec1
+d1
+|
+Qf1Xa
+Ed1c6
+c1
+a1d6
+d2
+a1a5
+c1
+|
+Qd2a3a4
+Xa
+d2a3
+Ec2
+d2
+| {editorially supplied}
+a1
+c5
+e5
+c5
+a5
+{^}
+d2
+a1
+c1
+|
+d1
+c6
+a6
+c6
+d1d6 {d6 changed from Xd?}
+a5
+c5
+e5
+|
+c1a4
+c4
+a3
+b3
+a1d3
+d2
+a1a5
+c1
+|
+Qd2a3a4 {Q supplied editorially}
+Xa
+Hd2d3 {H supplied editorially}
+||

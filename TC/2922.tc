@@ -1,0 +1,281 @@
+{abc Comment: %}
+{File: 'Robinson/abc/Robinson15' Title: A Toy}
+{abc Comment: %}
+{abc Comment: %staff 1}
+Ea1c2d3
+f1
+e1a2c4
+| {bar 1}
+
+Ef1c2d3
+a1
+c1a4
+| {bar 2}
+
+Ed2a3c5
+a2
+a1c3a6
+| {bar 3}
+
+Ec2a5
+Qd3
+|| {bar 4}
+Ea1c2d3
+f1
+e1a2c4
+| {bar 5}
+
+Ef1c2d3
+a1
+Sc1a4
+a1
+| {bar 6}
+
+Sd2a3c5
+c2
+a2c3c4
+a4
+a1e5
+c5
+| {bar 7}
+
+{abc Comment: %staff 2}
+{^ system 2}
+
+Sa5
+d2
+c2
+a2
+Ed3
+|| {bar 8}
+Ed2f3f4
+d1
+c1d3a4
+| {bar 9}
+
+Ed1f3f4
+d2
+h1
+| {bar 10}
+
+Ed1d2f3f4
+f1
+c1d3a4
+| {bar 11}
+
+Ed1f3f4d6
+Qd2
+| {bar 12}
+
+Ed2f3f4
+d1
+c1d3a4
+| {bar 13}
+
+Ed1f3f4
+d2
+a1b2b3d5
+| {bar 14}
+
+Eb2c4a5
+d3
+d2a3a4
+| {bar 15}
+
+{abc Comment: %staff 3}
+{^ system 3}
+
+Ea2d6
+Qb3
+| {bar 16}
+
+Ed3c4a5
+a1
+a1a2c4e6
+| {bar 17}
+
+Ec1c2d3a5
+a1
+f1c6
+| {bar 18}
+
+Eh1a2e6
+a1
+f1c2a5
+| {bar 19}
+
+Ee1a2c4a6
+a1
+a1b2b3d5
+| {bar 20}
+
+Ed2a3c5
+a2
+a1a2b3c4
+| {bar 21}
+
+Eb2a5
+d3
+d2b3c5
+| {bar 22}
+
+Eb2d5
+d3
+d2a3a4
+| {bar 23}
+
+{abc Comment: %staff 4}
+{^ system 4}
+
+Ea2d6
+b3
+a1d5
+| {bar 24}
+
+Ed2a3c5
+a2
+a1d5
+| {bar 25}
+
+Eb2d3a5
+d3
+d2a3a4
+| {bar 26}
+
+E.a2c3c4
+Sd3
+Ea2c3c4
+| {bar 27}
+
+Ed3
+Qa5
+|| {bar 28}
+Ea1c2d3
+Q.f1
+Ee1a2c4
+| {bar 29}
+
+E.f1c2d3
+Sa1
+Ec1a4
+| {bar 30}
+
+{abc Comment: %staff 5}
+{^ system 5}
+
+S
+d2a3c5
+E.a2c3c4
+Sa1
+| {bar 31}
+
+Ec2a5
+Qd3
+|| {bar 32}
+Ed2f3f4
+Q.d1
+Ec1d3a4
+| {bar 33}
+
+E.d1f3f4
+Sd2
+Eh1
+| {bar 34}
+
+S
+d1d2f3f4
+E.f1
+Sc1d3a4
+| {bar 35}
+
+E.d1f3f4d6
+Sd2
+| {bar 36}
+
+Ed2f3f4
+Q.d1
+Ec1d3a4
+| {bar 37}
+
+{abc Comment: %staff 6}
+{^ system 6}
+
+E.d1f3f4
+Sd2
+Ea1b2d5
+| {bar 38}
+
+S
+b2a5
+E.d3a4
+Sd2
+| {bar 39}
+
+Ea2d6
+Qb3
+| {bar 40}
+
+Ed3c4a5
+Q.a1
+Ea1e6
+| {bar 41}
+
+E.c1c2d3a5
+Sa1
+Eh1a2e6
+| {bar 42}
+
+S
+f1c2a5
+E.c1a2a3c5
+Sf1
+| {bar 43}
+
+E.e1a2c4a6
+Sa1
+Ea1b2b3d5
+| {bar 44}
+
+{abc Comment: %staff 7}
+{^ system 7}
+
+S
+d2a3c5
+E.a2b3c4
+Sa1
+| {bar 45}
+
+E.b2a5
+Sd3
+Ed2b3c5
+| {bar 46}
+
+S
+b2d5
+E.d3
+Sd2a3a4
+| {bar 47}
+
+E.a2d6
+Sb3
+Ea1d5
+| {bar 48}
+
+S
+d2a3c5
+E.a2b3c4
+Sa1
+| {bar 49}
+
+E.b2d3a5
+Sd3
+Ed2a3a4
+| {bar 50}
+
+E.a2c3c4
+Sd3e4
+Ea2c3c4
+| {bar 51}
+
+E.d3c4a5
+|| {bar 52}

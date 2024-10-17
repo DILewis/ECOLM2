@@ -1,0 +1,112 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Qd3
+|
+Q.d2d3a4Xa
+Ec2
+Qd2
+|
+Q.a1a5
+Ed2
+Qa1
+|
+Hc1d2d3Xa
+Qa5
+|
+a4
+c1
+d1
+|
+Q.f1a4
+Ed1
+Qc1
+|
+Q.a1a5 {dot omitted in MS}
+Ed2
+Qa1
+|
+Hd2d3a4Xa
+Qa5
+|
+Ha4
+:|:
+Qf1
+|
+Hf1d2a4
+QXa
+|
+{^}
+Q.a4
+Ed1
+Qc1
+|
+Ha1c2d3a5
+Qc4
+|
+Q.Xa///
+Ed2
+Qc2 {Q supplied editorially}
+|
+Ha2d6
+Qc2a5
+| {editorially supplied}
+Hd2c5
+Qa1e5
+|
+Q.c1a4
+Ea1
+Qd2
+|
+Q.a1a5 {MS has H}
+Ed2
+Qa1
+|
+Hd2d3a4Xa
+Qa5
+|
+{something crossed through on line 1, including c1 just before the barline. A second barline follows the deletion}
+a4
+c1
+d1
+||
+{^}
+f1
+c6
+d6
+|
+a5
+d1
+c1
+|
+a1
+d6
+c6
+| {editorially supplied}
+a6 {MS has erroneous Xa instead}
+d2
+c2
+|
+Ha2d6
+Qc2a5
+|
+Hd2a3c5
+Qa1e5
+|
+Q.c1a4
+Ea1
+Qd2
+|
+Q.a1a5
+Ed2
+Qa1
+|
+Hd2d3a4Xa
+Qa5
+|
+H.a4 {dot omitted in MS}
+||

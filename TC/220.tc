@@ -1,0 +1,107 @@
+{<rules>
+	<tuning_named>harpway-sarabande</tuning_named>
+	<notation>french</notation>
+	<pitch>65</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Ha2d3Xa
+Qa5
+a4
+|
+Ha2d3
+Q.b3
+Ed3
+|
+Qa3
+Xa
+a5
+a4
+|
+H.a3a4 {dotted omitted in MS}
+Qd5
+|
+Q.c5
+Eb3
+Q.a4
+Ec2 {MS has erroneous a2}
+|
+Q.a5
+Ec2
+Q.d2
+Ea1
+|
+Qc2
+d6
+Q.c2
+Ec6
+|
+Qa6
+e2
+Q.a1
+Se2 {S added later? Stem only}
+a1
+|
+Qe2 {Q added later? Stem only}
+a5
+c2
+a2
+|
+{^}
+Qc2a6
+e2
+Q.c2
+Sa2
+c3
+|
+Qa2
+Xa///
+a5
+c4
+| {editorially supplied}
+Wa2d3
+||
+Q.a2d3c4a5
+Ed6 {rhythm sign added as correction? Stem only}
+c6
+a2
+E.c2b3a6
+Se2 {rhythm sign added as correction? Stem only}
+|
+Ha1a2a3a4Xa
+Se4 {rhythm sign added as correction? Stem only}
+b3
+a2 {MS has erroneous E; overruled by previous correction but not deleted}
+a3
+E.c4
+Sa4 {rhythm sign added as correction? Stem only}
+|
+Qe5
+Xa/// {MS has erroneous Xa// instead}
+Q.a5
+Ed6
+|
+Qc6
+a2
+Q.b3c4c5a6
+Ee5
+|
+{^}
+Ha3a4a5Xa
+Se4
+b3
+Ea2
+Qa3
+|
+Qc4Xa///
+e4
+Q.c4
+Sa4
+e5
+|
+Ea4
+Xa
+a5
+a4
+Ha1a2a3
+||

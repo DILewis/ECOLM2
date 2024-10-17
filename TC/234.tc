@@ -1,0 +1,172 @@
+{<rules>
+	<tuning_named>Gaultier</tuning_named>
+	<notation>french</notation>
+	<pitch>64</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Qc4
+|
+Q.d3c4Xa///
+Ec3
+Qd3
+|
+Xa//
+c2
+a1
+|
+Q.b1a2a3Xa
+Ed1
+Qb1
+|
+Q.a1a5
+Ec2
+Qa2
+|
+Hd1c2c3c4a6
+Qd1c2c3c4
+|
+Q.f1f2Xa {dot omitted in MS}
+Eg1
+Qf1
+|
+Q.d1a2Xa/ {dot omitted in MS}
+Eb1
+Qa1
+|
+Q.b1a2a3a4a5Xa
+Ed1
+Qa1a5
+|
+{^}
+Hc2c3c4a6 {MS has erroneous Xa for a6}
+Qc4
+|
+QXa///
+d3
+c4
+|
+QXa//
+a3
+a4
+|
+QXa
+c3
+c4
+|
+Q.a3Xa {dot omitted in MS}
+Ec3
+Qd3
+|
+a6
+c2
+a1
+|
+Q.b1a2a3Xa {dot omitted in MS}
+Ed1
+Qa1a5
+|
+Hd1c2c3c4a6 {MS has Q; also erroneous Xa for a6}
+Qd1c2c3c4
+|
+Q.f1f2Xa
+Eg1
+Qf1
+|
+d1Xa/
+b1
+a1
+|
+{^}
+Q.c2a6
+Ea2
+c3
+a2 {MS has erroneous Q; should be over next note}
+|
+Qa5 {Q editorially supplied} 
+Xa///
+c4 {MS has erroneous c5 instead}
+|
+Hd3c4
+||
+Qd3
+|
+Xa//
+c2
+e2
+|
+Q.c1c5
+Ea1
+Qc1
+|
+d1
+a6
+Xa
+|
+Q.Xa/
+Ec1
+Qd1
+|
+f1
+c6
+a6
+|
+Q.Xa
+Ec2
+a1
+b1
+|
+{^}
+Qd1
+a6
+Xa
+|
+Q.Xa/
+Ec2
+Qa1 {Q corrected from E}
+|
+b1
+Xa
+Xa/
+|
+Q.Xa// {dot omitted in MS}
+Ed3
+c3
+a3
+|
+Qa6
+Hd1c2c3c4
+|
+Hd1c2c3c4
+QXa/
+|
+Q.f1Xa {dot omitted in MS}
+Eh1
+Qi1
+|
+h1a6
+i1
+l1
+|
+Q.i1a5 {dot omitted in MS}
+El1
+Qn1
+|
+Xa/
+a1
+a2
+|
+{^}
+Q.b1a2a3a4a5Xa
+Ed1
+Qa1a5
+|
+Q.c2a6
+Sa2
+c3
+Qa2
+|
+a5
+Xa///
+d3c4
+||

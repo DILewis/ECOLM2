@@ -1,0 +1,67 @@
+{<rules>
+	<tuning_named>harpway-sarabande</tuning_named>
+	<notation>french</notation>
+	<pitch>65</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+QXa
+Ha1a2a3
+|
+QXa/// {rhythm sign added as correction in different hand (stem only)}
+e1
+c1
+|
+QXa//
+Ha1c2a3a4c5
+|
+Qc6
+Ha2a3a4
+|
+Qd6
+Hc2b3a4
+|
+QXa
+a3
+a2
+|
+E.a3
+Sb3 {stem only}
+Qd3
+a5
+|
+QXa///
+Hd3c4
+||
+QXa {Q editorially supplied}
+|
+Q.a3a4
+Eb3
+Qd3
+|
+Xa/
+Xa//
+E.b3
+Sa3 {erroneous T written above S; both are stems only}
+|
+{^}
+Qc4
+a5
+Xa///
+|
+Hd3c4
+Qc6
+|
+Ha2a3
+Qd6
+|
+a3a4
+Q.c4Xa///
+Ee5
+|
+Qa4
+Xa
+a5
+|
+H.a1a2a3a4 {dot omitted in MS}
+||

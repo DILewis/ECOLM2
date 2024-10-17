@@ -1,0 +1,79 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Ha1a2c4a6 {MS has erroneous c5Xa for c4a6}
+d1
+| {editorially supplied}
+a1a2a3c5 {H interferes with a1}
+d2 {perhaps should be e2?}
+|
+Q.a1a2c4a6
+Ec1 {MS has S}
+Qd1
+a1
+|
+Xa// {squeezed in later? practically beneath the barline}
+c1a2
+Ha1a2c3a6
+||
+Qc1
+|
+{^}
+H.d1d6 {dot omitted in MS}
+Qa2a2
+| {editorially supplied}
+H.b3 {dot omitted in MS}
+Qd1
+| {editorially supplied}
+Qa1
+Qf1a5
+Qc2
+d3
+|
+H.f1
+Qc1
+|
+Q.a1a2c4a6
+Ec1
+Qd1
+f1 {above barline; added later?}
+|
+Q.h1Xa//
+Ef2 {MS has S}
+Qe2
+a2
+| {editorially supplied}
+Q.h1Xa// {dot omitted in MS}
+Ef2
+Qe2
+a2
+| {erroneously placed after Q.h1Xa// in MS}
+Q.h1Xa//
+Ef2 {MS has S}
+Qe2
+a2
+|
+Q.a1a6
+Ec1
+Qd1
+f1
+|
+{^}
+Q.h1Xa// {dot omitted in MS}
+Ef2
+Qe2 {something crossed through before}
+a2
+|
+Q.a1a6 {dot omitted in MS}
+Ec1
+Qd1
+a1
+|
+Xa//
+c1a2
+Ha1a2c3a6
+||

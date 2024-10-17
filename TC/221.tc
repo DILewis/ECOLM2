@@ -1,0 +1,73 @@
+{<rules>
+	<tuning_named>harpway-sarabande</tuning_named>
+	<notation>french</notation>
+	<pitch>65</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Qe1a2a3a4Xa
+e1a2a3a4
+e1a2a3a4
+|
+Q.c1Xa/
+Ee1
+QXa//
+|
+Ea1
+e2
+Qf3
+a1
+|
+Q.c1Xa///
+Ea1
+QXa
+||
+Qa2a3a4c6
+a2a3a4
+Xa
+|
+Hc2b3a4d6
+Qa6
+|
+a2a3a4c6
+a1
+Ee1 {E erroneously aligned with next note in MS}
+d6
+|
+Q.c1Xa/// {dot omitted in MS}
+Ea1
+QXa
+||
+{^}
+h1a2a3a4
+h1a2a3a4
+h1a2a3a4
+|
+Hh1Xa///
+Qa6
+|
+f1f2f3f4
+f1f2f3f4
+f1f2f3f4
+|
+Q.e1Xa
+Ef1
+Qh1 {MS has H}
+|
+Ef3
+e2
+Qa1
+Xa
+|
+He2d3c4a5
+Qc6
+|
+Qa2a3a4
+a2a3a4
+Ed6
+e1
+|
+Q.c1Xa///
+Ea1
+QXa
+||

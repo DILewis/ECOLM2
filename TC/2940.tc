@@ -1,0 +1,53 @@
+{File: 'Robinson/abc/Robinson34' Title: Lantero}
+{abc Comment: %staff 1}
+Qh1e2a3Xa
+Ee1f2f3a6
+a1a2c4e6
+| {bar 1}
+
+Ef1c2e4c6
+c1e2f3c5
+e1a2c4a6
+a1
+| {bar 2}
+
+Eh1a2a3Xe
+Xa
+e1f2f3a6
+a1a2c4e6
+| {bar 3}
+
+Ec1c2d3c6
+e2a3c5
+a1a2c3a6
+c4
+|| {bar 4}
+{abc Comment: %staff 2}
+{^ system 2}
+
+Ea1
+c1a2
+Se1
+d3
+Ea1c3
+| {bar 5}
+
+Ef1a3
+c1e2f3
+Se1
+d3
+a1c3
+a3
+| {bar 6}
+
+Ea1a2c3c4
+c1a2a3c5
+Se1
+a5
+Ea1a2c4e6
+| {bar 7}
+
+Ec1c2d3c6
+e2a3c5
+Qa1a2c3a6
+|| {bar 8}

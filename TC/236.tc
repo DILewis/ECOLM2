@@ -1,0 +1,188 @@
+{<rules>
+	<tuning_named>harpway-flat</tuning_named>
+	<notation>french</notation>
+	<pitch>65</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Qa2a3d4
+Ed2 {stem only}
+Sc4 {stem only}
+a4
+Eb2 {stem only; incorrectly aligned with next note}
+a2d5
+a1a2b5
+c3
+|
+a2
+a5
+E.a1 {dot omitted in MS}
+Te2 {stem only}
+a1
+Ec1
+E.c3
+Ta3
+c4
+Ea3
+|
+a4
+a1
+Ed1
+Sd5
+a4
+b5
+a5
+E.b5 {dot omitted in MS}
+Sd6
+Ec1
+|
+Ea5
+f2
+Ee2
+Sc2 {stem only}
+e2
+Ea2
+Sc3
+a2
+{^}
+d4
+c3
+c4
+a3
+|
+Ea4 {stem only}
+Sd5 {stem only}
+a4
+b5
+a4
+a3
+a5
+Ed6 {stem only}
+c4
+b2
+a4
+|
+d5
+c4
+c3
+b5
+{superfluous barline removed}
+Ea5
+d4
+d2
+a1b5
+|
+d5
+d2
+c4
+b2
+a3
+a2
+Ec3Xa/
+Sa3
+c4
+|
+Ea3 {stem only}
+{^}
+b6
+d5
+d4
+Ha2a3d4
+||
+Q.c3c4Xa/
+Sd2
+b2
+Ea2 {rhythm sign aligned with next note in MS}
+a2b6
+E.b2d6
+Sa1
+|
+Ee2
+a5
+E.c3
+Ta3
+c4
+a3
+Xa
+Eb2
+Ea2a6
+Sc3 {MS has erroneous T}
+|
+Ea2
+b6
+Xa/
+c3
+Xa
+c3
+E.a3
+Tc4
+a3
+|
+Ec4
+Xa///
+E.a5
+Td6
+a5
+|
+{^}
+Ec6
+a2
+E.a1
+Td2
+a1
+|
+Eb2
+d6
+a3
+c4
+a2a3
+a5
+c3c4b5
+a4
+|
+Qd4a5
+Ec4
+d6
+Qa4d5c6
+c4b5d6
+|
+Ee5Xa///
+a5
+d2a3
+e2c4
+a2a3a4
+a1
+E.d1 {rhythm sign badly aligned; almost above note before}
+Sf1 {MS has erroneous T}
+|
+Eh1
+a5
+E.e2
+Sf2
+Eh2
+QXa///
+Ea2
+|
+E.c2
+Se2 
+{erroneous barline}
+{^}
+Ef2
+a3
+E.c3
+Se3
+Ef3
+Ed6
+|
+Qa2c3a5
+a3
+Q.c4Xa/// {something crossed out on line 3 (f?)}
+Sa4
+e5
+|
+Ea4
+Xa
+a5
+a4
+Ha1a2
+||

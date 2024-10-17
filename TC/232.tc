@@ -1,0 +1,100 @@
+{<rules>
+	<tuning_named>Gaultier</tuning_named>
+	<notation>french</notation>
+	<pitch>64</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Qa1
+|
+H.a1a2d3c4a5 {dot omitted in MS}
+|
+Qc3a6
+d1
+b1
+|
+Q.a1Xa///
+Sc2
+a1
+Qa2
+|
+Ec2
+a1
+Q.b1a2a3a4Xa
+Ed1
+|
+Hf1
+Qd1d3e5
+|
+Q.b1a2a3a4
+Ea1
+Qc2c3c4
+|
+{^}
+Ea6
+d3
+Qc3
+d1
+|
+Q.c1Xa//
+Sa1
+c1
+Qd1
+|
+Q.a6
+Ec5
+Qc4
+|
+H.d1c2c3
+||
+E.a2
+Sc2
+|
+Qa1
+a5
+b1a3c5
+|
+Qd1d3e5
+f1
+d1
+|
+Qf1a2a3a4
+Xa
+Ed1 {E badly aligned in MS; almost over previous note}
+f2
+|
+Qa1
+EXa///
+b1
+Qa1
+|
+{^}
+b1a3c5
+d1d3e5
+a4
+|
+Q.c2c3c4
+Ee2
+Qa2c4 {Q dotted in MS; MS has erroneous d4 for c4}
+|
+c3a6
+c4
+d1Xa/
+|
+Q.b1Xa//
+Ed1
+Qa1Xa///
+|
+Hd1Xa/
+Eb1Xa
+a1
+|
+Q.c2a6 {Q. supplied editorially}
+Sa2 {S supplied editorially}
+c3 
+Qa2 {Q supplied editorially}
+|
+a5
+Xa///
+d3c4
+||

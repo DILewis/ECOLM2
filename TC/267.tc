@@ -1,0 +1,186 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+{Crossed through material:  (barred 3) a1a6 c4 d3 | (no rhythm signs)}
+Q.a1c2d3a5
+Sc1
+e1
+Qf1
+a1c2d3e5 {MS has erroneous d2 for c2}
+|
+Ec1a4
+a1c3c4
+d2
+a2
+Qd3
+{^}
+c2d3c4 {MS has erroneous c3 for d3}
+| {barline erroneously placed before c2c3c4 and line break in MS}
+Ea6
+a2
+c2d3a5
+e2
+Ha1
+|
+Ee2a3c5 {E editorially supplied}
+a1
+Qc1
+a1a2c3c4
+a6
+|
+Q.d2b3a4d6 {dot omitted in MS; MS has a3b4 for b3a4, and something crossed on line 5; a3 possibly changed from e3}
+Sa1
+c1
+Qd1
+Ec5
+d2
+|
+d5
+a1
+d2a3a4
+b2
+Qa2b3d6
+Ea4
+a2
+|
+Q.c2d3a5
+Ed2c5
+Qa1e5
+Ed3a4
+a2
+|
+{^}
+c2c4
+d2
+Qa2c3 {rhythm sign erroneously aligned with next note in MS}
+d3c4a5
+QXa//
+||
+Q.d3c4a5
+Ea2
+Ec2
+Qd3e5 {Q editorially supplied}
+Sa2
+c2
+|
+Ed2c5
+Qa2a6 {Q editorially supplied}
+Sc2
+d2
+Qa1a5
+Ec2
+Sd2
+a1
+|
+Q.c1a4
+Ea1e5
+Qd2a3c5
+Ea1
+d2
+|
+c2a3c6
+a2
+Qc2 {MS has erroneous c1 and something crossed on line 2 instead}
+a2a3c5 {MS has erroneous a1a2c3 and something crossed on line 6}
+Xa/
+{^}
+Qd2a3a4
+EXa
+a1
+Qc1
+Ed2e4
+Sa1
+c1
+|
+Qd1a2c4
+Ea1d3
+Sc1
+d1
+Qf1a3a4
+Ec1
+Sd1
+f1
+|
+Q.h1a2f4
+Ef1a3
+Qd1a2c4
+Ef1a5
+d1
+|
+{superfluous d1 followed by barline here}
+c1a2Xa/
+a1
+Qc1a2 {Q editorially supplied}
+Ha1a2c3a6
+:|:
+Ed2a3a4Xa
+a1
+c1
+d1
+f1
+{^}
+a6
+c6
+d6
+|
+a5
+a2
+c2
+d2
+a1
+c5
+e5
+a5
+|
+c5
+c2
+d2
+a1
+c1
+e5
+a4
+c4
+|
+e4
+a1
+Qc2e3
+e2a3c5
+Xa/
+|
+Ec1d2a4
+d1c4
+f1e4
+f4
+a1d3
+{superfluous barline here}
+{^}
+c1
+d1a2c4
+a3
+|
+d2f3f4
+a1
+c1a4
+c4
+c2d3e4
+d2
+a1d3e5
+a4
+| {editorially supplied}
+a2c4
+c2
+d2c5
+e5
+d3a4
+a2
+c4
+a2d3
+| {erroneously placed before c4 in MS}
+Qc3a6 {c2 crossed through, and again after this chord}
+c2d3c4a5 {fermata, between this and next note}
+Xa//
+||

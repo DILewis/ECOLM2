@@ -1,0 +1,190 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Qa1
+|
+Q.c2d3c4a5 {dot omitted in MS}
+Ed2
+E.c2
+Sa2
+E.d3
+Sc2
+|
+Qa2
+Ea6
+d3
+E.c3
+Sa3
+E.c4
+Sa4
+|
+Ee5
+d3
+E.c5
+Sa5
+E.c5
+Sc2
+E.d2
+Sa1
+|
+Qc2d3c4a5
+E.Xa/// {dot omitted in MS}
+Sc3
+E.d3
+Sa2
+E.c2
+Se2
+|
+{^}
+E.c2a5
+Se2
+E.a1
+Se6
+E.c1c6
+Se1
+Qf1
+|
+E.e2c5 {dot omitted in MS}
+Sf2
+E.c1
+Sa5
+E.e1e6
+Sf1
+Qh1
+|
+f1c2c6
+e2
+He1f2a6
+|
+Qc1f2c5 {c6 crossed through}
+e2
+Ha1f2e5
+|
+E.Xa/ {dot omitted in MS}
+Sd1
+E.c1
+{superfluous barline in MS}
+Sa1 {MS has S., as untidily altered from E.}
+E.d2c5
+Sa1
+E.c2a5
+Sd2
+|
+{^}
+E.a2e6
+Sd2
+E.c2a6
+Sa2
+E.d3c6
+Sc2
+E.a2Xa
+Sd3
+|
+Ec3a6 {E editorially added; or should this bar continue the dotted motif?}
+c4
+d3
+Xa
+a2
+c2
+a2a6
+Sd3 {S editorially added}
+a2
+|
+Qd3
+HXa///
+||
+Ec2 {stem only; added in another hand}
+S.a2 {dot omitted in MS}
+Td3
+|
+E.c3a6 {dot omitted in MS}
+Sa3
+E.c4
+Sa4
+E.e5 {MS has erroneous e4 for e5}
+Sc5 {MS has erroneous c4 for c5}
+{^}
+E.a5 {dot omitted in MS; stem only}
+Sd6 {stem only}
+|
+Qd3c6
+Xa
+Q.c1 {dot omitted in MS}
+Ec4
+|
+a4
+Qa2 {stem only}
+Ee5
+c5
+a1
+Ed2a5
+c2
+| {erroneously placed before Ed2a5 in MS}
+Qa2e6
+a6
+Q.e1
+Ee4
+|
+c4
+c3
+a2
+a4
+e5
+d3
+a1c5
+d2
+|
+Qc2a5
+d3
+f1
+a5
+|
+{^}
+Qe2c5
+f1
+He1f2a6
+|
+Qf2c5
+e2
+Ea6
+a1
+e1
+f1
+|
+Qh1
+f3
+Ea5
+h1 {"or k"; performance option}
+f2
+h2
+|
+Ea4
+l1
+h2
+k2 {"or h"; performance option}
+Xa
+Qn1
+Ec6
+|
+e6
+c4
+a1
+c6
+c3a6
+c4
+d3
+c2
+|
+{^}
+Ea2
+d3
+Qa2d3c4a6 {MS has erroneous a5 for a6}
+Hc3
+|
+Qd3c4a5
+HXa///
+||

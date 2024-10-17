@@ -1,0 +1,82 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Qa1
+a6 {MS has Xa instead}
+c4
+d3
+|
+Q.c3a6 {dot omitted in MS}
+Sa3
+c3
+Qd3
+a5
+|
+d3
+Ed2
+c2
+Qa2
+Ea1
+d2
+| {editorially supplied}
+c2
+a2
+d3
+c3
+Qa3
+c4
+| {editorially supplied}
+Ea1a5
+d2
+c2
+a2
+Qd3
+d2 {head of unfinished rhythm sign}
+|
+Qd2a4
+c2
+Qa2
+a1
+|
+{^}
+a1a6 {b2 and/or e2 crossed through; a6 ambiguous with Xa}
+c1
+a3
+c1
+|
+Ec1a3
+a1
+c2
+a1
+Qe2a3c5
+a2
+|
+Ed2a4
+d2
+d2
+d2
+Qc1
+d2
+|
+Qd1d6
+c1a5
+a1
+Ee2a3c5
+Ea1
+|
+Qc1
+a2e6
+Ec2a5
+e2
+Qa1
+|
+Q.e2a3c5
+Sc2
+e2
+{^}
+Ha1
+||

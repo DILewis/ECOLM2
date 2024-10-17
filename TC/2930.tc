@@ -1,0 +1,215 @@
+{abc Comment: %}
+{File: 'Robinson/abc/Robinson23' Title: The Queenes Gigue}
+{abc Comment: %}
+{abc Comment: %staff 1}
+Qa3a4
+Ed3
+e5
+| {bar 1}
+
+Qd2a3c5
+Ec6
+c2
+| {bar 2}
+
+E.a2a3c5
+Sd3
+Eb3
+a3a5
+| {bar 3}
+
+Ec4d6
+c6
+a6
+c2
+| {bar 4}
+
+E.d2a3a4Xa
+Sa1
+Ec1
+d2
+| {bar 5}
+
+E.a1d3c4a5
+Sd2
+Ea2b3c4
+c2
+| {bar 6}
+
+{abc Comment: %staff 2}
+{^ system 2}
+
+Q.d2a3a4
+Ea1
+| {bar 7}
+
+E.d2Xa
+Sc2
+Ea2
+d3
+|| {bar 8}
+Qa3a4
+Ed3
+e5
+| {bar 9}
+
+Qd2a3c5
+Ec6
+c2
+| {bar 10}
+
+E.a2c5
+Sd3
+Eb3
+a3a5
+| {bar 11}
+
+Ec4d6
+c6
+b3a6
+c2
+| {bar 12}
+
+{abc Comment: %staff 3}
+{^ system 3}
+
+Sd2a3a4Xa
+c2
+d2
+a1
+Ec1a4
+d2
+| {bar 13}
+
+E.a1d3c4a5
+Sd2
+Ea2b3c4
+c2
+| {bar 14}
+
+Q.d2a3a4
+Ea1
+| {bar 15}
+
+Ed2Xa
+c4
+d2a3
+b3
+|| {bar 16}
+Qa1c2d3a5
+Ec4
+d2
+| {bar 17}
+
+Qa1c2d3a5
+f1
+| {bar 18}
+
+{abc Comment: %staff 4}
+{^ system 4}
+
+Qc1d2d3a4
+EXa
+a1
+| {bar 19}
+
+Qd2a3a4
+f1
+| {bar 20}
+
+Qh1a2f4
+Ea3
+f1
+| {bar 21}
+
+Eh1f4
+f1
+Qc1d2a4
+| {bar 22}
+
+Qa1c2d3a5
+Ed2d3a4
+c1
+| {bar 23}
+
+Ed1a2c4
+a1
+Qc2d3
+| {bar 24}
+
+Qa2b3
+Ed2
+a3
+| {bar 25}
+
+{abc Comment: %staff 5}
+{^ system 5}
+
+Ef1c4a5
+d1
+c1
+a1
+| {bar 26}
+
+Qd2a3a4
+EXa
+f1
+| {bar 27}
+
+Eh1f4
+f1
+Qc1d3a4
+| {bar 28}
+
+E.a1e5
+Sc1
+E.d2a3c5
+Sa1
+| {bar 29}
+
+E.c2a5
+Sd2
+E.a2d6
+Sc2
+| {bar 30}
+
+Ea3c6
+d3
+d3
+Sb3d6
+a3
+| {bar 31}
+
+{abc Comment: %staff 6}
+{^ system 6}
+
+Qc4a5
+c2d3
+| {bar 32}
+
+Hd2a3a4Xa
+| {bar 33}
+
+Qa4
+Xa
+| {bar 34}
+
+Ea3a4
+d3
+d3
+Sb3
+a3
+| {bar 35}
+
+Ec4
+d2a3a4
+b3c4
+c2
+| {bar 36}
+
+Q.d2a3a4
+Ea1
+| {bar 37}
+
+Hd2a3a4Xa
+|| {bar 38}

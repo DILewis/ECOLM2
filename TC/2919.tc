@@ -1,0 +1,396 @@
+{abc Comment: %}
+{File: 'Robinson/abc/Robinson12' Title: Merry Melancholie}
+{abc Comment: %}
+{abc Comment: %staff 1}
+Qb3
+| {bar 1}
+
+Qd2
+Ea4
+d2
+| {bar 2}
+
+Qb2
+d3
+| {bar 3}
+
+Qa2b3
+b3c4
+| {bar 4}
+
+Qd2a3a4
+d2f3f4
+| {bar 5}
+
+Qd1a2c4
+a1c2d3
+| {bar 6}
+
+Ef1
+f4
+a3
+d1c4
+| {bar 7}
+
+Qc1d2d3a4
+a1c2d3a5
+| {bar 8}
+
+{abc Comment: %staff 2}
+{^ system 2}
+
+Qa4
+d2
+| {bar 9}
+
+Qd3
+a2f3f4
+| {bar 10}
+
+Qd3a4
+d1a2c4
+| {bar 11}
+
+Qd2a3a4
+Ea1b3d5
+d3
+| {bar 12}
+
+Qd2f3d6
+b2d3a5
+| {bar 13}
+
+Ea2
+d6
+d3
+b3
+| {bar 14}
+
+Ea3a4
+b3
+d3Xd
+a3
+| {bar 15}
+
+Ed6
+a2b3
+a4
+d3
+| {bar 16}
+
+{abc Comment: %staff 3}
+{^ system 3}
+
+Qa2b3d6
+Sb3
+d3
+a2
+b2
+|| {bar 17}
+Qd2
+Sa4
+c4
+a3
+b3
+| {bar 18}
+
+Qb2d3
+d3
+| {bar 19}
+
+Qa2b3
+Sc4
+d3
+a2
+b2
+| {bar 20}
+
+Ed2a4
+Sc4
+a3
+Ed2f3f4
+Sa1
+c1
+| {bar 21}
+
+Ed1a2c4
+Sa3
+b3
+Ea1d3
+Sc1
+d1
+| {bar 22}
+
+{abc Comment: %staff 4}
+{^ system 4}
+
+Ef1
+f4
+e4
+d1a2c4
+| {bar 23}
+
+Ec1a4
+d2
+a1d2d3a5
+c2
+| {bar 24}
+
+Qa4
+d2
+| {bar 25}
+
+Qd3
+a2f4
+| {bar 26}
+
+Qd3a4
+{Text: "(1)"}
+Ed1a2c4
+c2
+| {bar 27}
+
+Ed2a4
+a3
+a1b3d5
+d3
+| {bar 28}
+
+Qd2f3d6
+Eb2c4a5
+a3
+| {bar 29}
+
+{abc Comment: %staff 5}
+{^ system 5}
+
+Ea2b3
+d6
+d3
+b3
+| {bar 30}
+
+Ea3a4
+b3
+d3Xd
+a3
+| {bar 31}
+
+Ed6
+a2b3
+a4
+d3
+| {bar 32}
+
+Qa2b3a4d6
+a2
+|| {bar 33}
+Qd3
+Ea4
+a2
+| {bar 34}
+
+Qb2d3a5
+Eb2
+c5
+| {bar 35}
+
+Ed5
+a3
+a1b3
+d3
+| {bar 36}
+
+{abc Comment: %staff 6}
+{^ system 6}
+
+Ea2d6
+b2
+d2
+c5
+| {bar 37}
+
+Ea1b2a5
+c1
+d1a2
+d6
+| {bar 38}
+
+Qc1d2a4
+a1c2d3a5
+| {bar 39}
+
+Ed2d3a4
+a5
+c5
+a5
+| {bar 40}
+
+Ec6
+d3
+a2
+d3
+| {bar 41}
+
+Ea3a4
+b3
+d3
+a2
+| {bar 42}
+
+Eb2a5
+d2
+a1d5
+c1
+| {bar 43}
+
+{abc Comment: %staff 7}
+{^ system 7}
+
+Ed1d2d6
+f1
+h1
+d1
+| {bar 44}
+
+Ef1a4
+c1
+d2
+Sa1
+c1
+| {bar 45}
+
+Ed1f3f4d6
+d2
+a1b3d5
+d2a3a4
+| {bar 46}
+
+Qa2f4
+d3e4f5
+| {bar 47}
+
+Ed6
+a2b3
+a4
+d3
+| {bar 48}
+
+Qb3a4d6
+a2
+|| {bar 49}
+Ed3
+b3
+d3a4
+a2
+| {bar 50}
+
+{abc Comment: %staff 8}
+{^ system 8}
+
+E.b2d3a5
+Sa2c5
+d3
+| {bar 51}
+
+Eb3d5
+a3
+a1b3
+d3
+| {bar 52}
+
+Sa2d6
+d3
+a2
+b2
+Ed2
+c5
+| {bar 53}
+
+Sa1a5
+d2
+a1
+c1
+Ed1a2
+d6
+| {bar 54}
+
+Ec1d2d3a4
+Sa1
+d2
+c2a5
+d2
+a1
+c2
+| {bar 55}
+
+{abc Comment: %staff 9}
+{^ system 9}
+
+Ed2d3a4
+a5
+c5
+Sa5
+d6
+| {bar 56}
+
+Ec6
+d3
+a2d6
+Sd3a5
+b3
+| {bar 57}
+
+Ea3a4Xd
+b3
+d3
+a2
+| {bar 58}
+
+Sb2a5
+a2
+b2
+d2
+a1d5
+d2
+a1
+c1
+| {bar 59}
+
+Ed1d2d6
+f1
+h1
+d1
+| {bar 60}
+
+{abc Comment: %staff 10}
+Sf1a4
+d1
+c1
+a1
+Ed2
+Sa1
+c1
+| {bar 61}
+
+Ed1f3f4d6
+d2
+a1b3d5
+d2a3a4
+| {bar 62}
+
+Ea2
+f4
+d3e4
+f5
+| {bar 63}
+
+Eb3c5
+d6
+a4
+d3
+| {bar 64}
+
+Ha2b3a4d6
+|| {bar 65}
+{abc Comment: %}

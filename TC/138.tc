@@ -1,0 +1,236 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>none</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Ea2a3c5
+EXa/ {orig. Xa; altered for larger instrument}
+Ed2
+Ec1
+|
+Ea1a6 {MS has erroneous a5 as bass note}
+Ed2
+Ec2c6
+Ee3
+|
+Ea2a3c5
+EXa/ {orig. Xa}
+Ed2
+Ec1
+|
+Ec1a2a3Xa/ {bass note orig. Xa}
+Ea2
+Ed2Xa/ {bass note orig. Xa}
+Ec1
+|
+Ef1
+Ec1
+Ec1a4
+Ed2
+|
+Ea1a5
+Ec2
+Ec2a5
+Ed3
+|
+Ea2a3c5
+Eh1
+Eh1a3
+Eg1
+|
+Eh1a2a3Xa/ {bass note orig. Xa}
+EXa/ {orig. Xa}
+Qh1a2a3
+:|:
+Sa2a3c5
+Sd3
+Sa2
+Sc2
+{^}
+Sd2Xa/ {MS has Xa; should have been altered as per earlier examples}
+Sa1
+Sc1
+Sd2
+|
+Sa1a6
+Sd2
+Sc2
+Sa2
+Se3c6
+Sa3
+Sc3
+Se3
+|
+Sa2a3c5
+Sd3
+Sa2
+Sc2
+Sd2
+Sa1
+Sc1
+Sd1
+|
+Ec1a2a3Xa/ {bass note orig. Xa}
+Sa2
+Sc2
+Sd2
+Sa1
+Sc1
+Sd1
+|
+Sf1a4
+Sd1
+Sc1
+Sa1
+Sd2a4
+Sa1
+Sc1
+Sd2
+|
+Sa1a5
+Sd2
+Sc2
+Sa2
+{^}
+Sd3a5
+Sa2
+Sc2
+Sd3
+|
+Sa2c5
+Sc2
+Sd2
+Sa2
+Se3c6
+Sa2
+Sc2
+Se3
+|
+Ea2a3c5
+EXa/ {orig. Xa}
+Qa2a3
+:|:
+Sc1 {something not quite right in this and the next bar with upper voices?}
+Sa2
+SXa/ {MS has Xa; should have been altered}
+Sa1
+Sc2
+Sd3
+Sa5
+Sc2
+|
+Sa1
+Sa2
+Sa6 {MS has erroneous Xa, later changed to Xa/ for larger instrument}
+Sa1
+Sc2
+Sa3
+Sc6
+Sc2
+|
+Sa2
+Sa3
+Sc5
+Sa2
+{^}
+Sd2
+Sa3
+Sc5
+Sd2
+|
+Sa2
+Sa3
+Sc5
+Sc2
+Sd2
+Sa3
+Sc5
+Sa1
+|
+Sc1
+Sd2
+Sa4
+Sc1
+Sf1
+Sd2
+Sa4
+Sf1
+|
+Sa1
+Sc2
+Sa5
+Sa1
+Sc2
+Sd3
+Sa5
+Sc2
+|
+Sa2
+Sa3
+Sc5
+Sh1
+Sa3
+Sh1
+Eg1
+|
+{^}
+Eh1a2a3Xa/ {MS has erroneous bass note Xa; should have been altered}
+EXa/ {MS has erroneous Xa; should have been altered}
+Qh1a2a3
+:|:
+S.a2a3c5
+Tc2
+Ed2
+S.d2a3Xa/ {a6 deleted}
+Ta1
+Ec1
+|
+S.a1a6
+Tc1
+Ed2
+S.c2a3c6
+Ta2
+Ec2
+|
+S.a2a3c5
+Tc2
+Ed2
+S.d2Xa/ {bass note orig. Xa}
+Ta1
+Ec1
+|
+S.c1a2a3Xa/ {bass note orig. Xa}
+Ta1
+Ed2
+S.a1a5
+Tc1
+Ed1
+|
+S.f1a4
+Td1
+Ef1
+S.f1a4
+Tc1
+Ed2
+|
+S.a1a5
+Tc1
+Ea1
+{^}
+S.a1a5
+Tc2
+Ed3
+|
+S.a2a3c5
+Tc2
+Ed2
+S.c2a3c6
+Ta2
+Ec2
+|
+Ea2a3c5
+EXa/ {orig. Xa}
+Qa2a3
+||

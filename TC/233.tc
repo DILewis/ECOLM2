@@ -1,0 +1,137 @@
+{<rules>
+	<tuning_named>Gaultier</tuning_named>
+	<notation>french</notation>
+	<pitch>64</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+{3/; or crossed through 3?}
+Ha2d3c4a5
+|
+Hc2d3a6
+Q.c3
+Ea1
+|
+Qa2
+c6
+a6
+Xa
+|
+QXa/
+d1
+b1
+a1
+|
+Qf1
+Xa
+d1
+a1
+|
+Qb1Xa//
+c3
+d1
+b1
+|
+Ha1Xa///
+a5
+|
+Qa1a2
+c2
+d3
+e4 {MS has erroneous e3 instead}
+|
+Qa1
+e4
+a2
+c4
+|
+{^}
+Qb4
+a3
+c2
+a2
+|
+Qc3c4
+a4
+e5
+a2
+|
+Qc5
+c3
+Q.a3Xa//
+Sc4
+a3
+|
+Ec4
+a6
+c5
+c4
+Hd1c2c3
+||
+Qd1
+f1
+h1a6
+Xa
+|
+QXa/
+i1
+Hh1
+|
+f1a2a3a4 {Xa crossed through}
+Xa
+|
+Qf1a2a3
+c4
+a3
+f1
+|
+Qd1c3
+f2
+{^}
+Q.a1d3
+Ef1
+|
+Qd1
+a1
+Q.f1a5
+Ed1
+|
+Q.c1c5
+Ed1
+Qd1a6
+c6
+|
+Q.c2b3d6 {dot omitted in MS}
+Ea1
+Qb1
+c6
+|
+Q.a2
+Ec2
+Qa1
+a6
+|
+Qd3
+a2
+c2c5
+e5
+|
+Q.a3a4
+Ec3
+Qa2
+e5
+|
+Qc5 {was Q.; dot crossed out}
+a5
+Hc2d3a6 {H changed from E; and almost aligned with previous note} 
+|
+Q.c3
+Ed3
+a2
+Xa///
+{^}
+a5
+c4
+|
+Wa2d3 {W? or part of fermata?}
+||

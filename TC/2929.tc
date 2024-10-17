@@ -1,0 +1,116 @@
+{abc Comment: %}
+{File: 'Robinson/abc/Robinson22' Title: A Toy}
+{abc Comment: %}
+{abc Comment: %staff 1}
+Ec1
+| {bar 1}
+
+Ee2a3c5
+a2
+c2e3e4
+| {bar 2}
+
+S.e2a3c5
+Sa1e5
+c1b4
+c4
+| {bar 3}
+
+Qc2e3e4
+Ec2c3e5
+| {bar 4}
+
+E.c2e3e4
+Sc4
+Ec1a2b4
+| {bar 5}
+
+Ee2a3c5
+a2
+c3c4
+| {bar 6}
+
+Ea3b4
+Sc5
+e3
+Ec3d4e5
+| {bar 7}
+
+{abc Comment: %staff 2}
+{^ system 2}
+
+Ea3
+c6
+a3c5
+| {bar 8}
+
+Ea3b5
+c6
+c1
+|| {bar 9}
+E.c2e3e4
+Se2
+Eb1c3e5
+| {bar 10}
+
+Ec1c5
+e2
+a2c3c4
+| {bar 11}
+
+Eh1a2a3g5
+h6
+f2
+| {bar 12}
+
+e2
+a2
+g1a3
+| {bar 13}
+
+Qe1e5
+Ec2a3
+| {bar 14}
+
+Ec1a2b4
+c5
+f2c3c4
+| {bar 15}
+
+{abc Comment: %staff 3}
+{^ system 3}
+
+E.e2a3c5
+Sc2
+a2
+| {bar 16}
+
+Qc2e3e4
+Ec1
+| {bar 17}
+
+E.b1c3e5
+Sc2
+Ea2e6
+| {bar 18}
+
+Ee3c6
+e4
+Se1
+g1
+| {bar 19}
+
+Qh1a3h6
+Ea2
+| {bar 20}
+
+Ee2a3c5
+Qc2a3c6
+| {bar 21}
+
+Qa2a3c5
+EXa
+| {bar 22}
+
+E.c5
+|| {bar 23}

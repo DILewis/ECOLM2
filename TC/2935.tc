@@ -1,0 +1,183 @@
+{abc Comment: %}
+{File: 'Robinson/abc/Robinson28' Title: A Gigue}
+{abc Comment: %}
+{abc Comment: %staff 1}
+E.c4
+Sa3
+Ec3
+| {bar 1}
+
+Ec3a6
+d3
+a2
+c3
+| {bar 2}
+
+Ed3a5
+d3
+c2
+d3
+| {bar 3}
+
+Ea1c3
+Sc1
+e1
+Ef1a3
+f1
+| {bar 4}
+
+Ee1a2c4
+a1
+a1e5
+Sd2a3a4
+c2
+| {bar 5}
+
+Ea2c3c4
+Sc2
+d2
+Ea1a6
+a2
+| {bar 6}
+
+{abc Comment: %staff 2}
+{^ system 2}
+
+Ed3c4a5
+d3
+c2
+d3
+| {bar 7}
+
+Sc2a5
+d2
+Ea1
+Ec2
+d3
+|| {bar 8}
+Sc3a6
+a3
+c3
+d3
+a2
+c2
+d2
+c2
+| {bar 9}
+
+Sa2a6
+d3
+c3
+a3
+c3
+d3
+a2
+c3
+| {bar 10}
+
+Sd3a5
+c3
+d3
+a2
+Ec2
+d3
+| {bar 11}
+
+Ea1
+Sc1c3
+e1
+Ef1a3
+f1e5
+| {bar 12}
+
+{abc Comment: %staff 3}
+{^ system 3}
+
+Ee1a2c4
+a1
+a1
+Sd2
+c2
+| {bar 13}
+
+Sa2
+c4
+c2
+d2
+a1a6
+c4
+a3
+c3
+| {bar 14}
+
+Ed3
+Sa5
+a2
+Ec2
+d3
+| {bar 15}
+
+Sc2a5
+d2
+Ea1
+c2a5
+d3
+|| {bar 16}
+Ec3a6
+c4
+a2
+c3
+| {bar 17}
+
+Sc4
+a3
+c3
+d3
+a2
+a4
+c3e5
+c5
+| {bar 18}
+
+{abc Comment: %staff 4}
+{^ system 4}
+
+Ed3a5
+d3
+c2
+d3
+| {bar 19}
+
+Ea1c3
+Sc1
+e1
+f1a3
+f1
+| {bar 20}
+
+Ee1a2c4
+a1
+a1d3
+Sd2
+c2
+| {bar 21}
+
+Ea2c3
+Sc2a3
+d2
+Ea1c4
+a2c3
+| {bar 22}
+
+Ed3c4a5
+d3
+c2
+d3
+| {bar 23}
+
+Sc2d3a5
+d2
+Ea1
+c2a5
+d3
+|| {bar 24}

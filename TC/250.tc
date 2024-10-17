@@ -1,0 +1,105 @@
+{<rules>
+	<tuning_named>french-flat</tuning_named>
+	<notation>french</notation>
+	<pitch>63</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Qa3a4Xa
+c3
+e3
+|
+Qa2a5
+c4
+c1
+|
+Q.c1b2d6
+Ee1 {temporal dot crossed?}
+Qc1 {temporal dot crossed?}
+|
+Q.b1a5
+Ec1
+Qc1a2a3a4a5Xa
+|
+Qa1
+Q.a1a2a3b6
+Ec1
+|
+Q.b2a4d6
+Ed2
+Qa2Xa
+|
+a2Xa/
+Q.c3Xa//
+Sa3
+c3
+|
+Qa2
+HXa///
+|
+{^}
+Qa1a2e3c4a5
+a1a2e3 {e3 changed from c3}
+a1a2e3
+|
+Q.c1b2c3
+Ee1
+Qf1a2a3
+|
+Q.a2a4b6
+Eb2
+Qa2
+|
+Q.c3Xa/
+Sa3
+c4
+Qa3
+|
+Qa1a2a3
+b1c3c4 {c2 crossed through}
+c1a2a3a4
+|
+Qe1e5
+a2
+c1a4
+|
+a1a5
+Q.c2a6
+Sa2
+d3
+|
+Qa2 {MS has erroneous a1 instead}
+HXa///
+|
+{^}
+Qa1a2e3c4a5
+a1a2e3
+a1a2e3
+|
+Q.c1b2c3
+Ee1
+Qf1a2a3
+|
+Q.a2a4b6
+Eb2
+Qa2
+|
+Q.c3Xa/
+Ec4
+Qa3
+|
+Qb6
+Q.a1a2a3
+Ec1
+|
+Q.b2a4d6 {dot omitted in MS}
+Ed2
+QXa
+|
+Qc1a2a3a4
+Q.b1Xa///
+Ec1
+|
+Qc1a2a3a4
+HXa
+||

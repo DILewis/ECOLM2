@@ -1,0 +1,471 @@
+{abc Comment: %}
+{File: 'Robinson/abc/Robinson14' Title: Goe from my Window}
+{abc Comment: %}
+{abc Comment: %staff 1}
+Qd2d3a4
+Ed2
+a1
+| {bar 1}
+
+Qc1d2d3a4
+a1c2d3a5
+| {bar 2}
+
+Ea4
+d2
+d3
+a4
+| {bar 3}
+
+Qd2d3a4
+c1
+| {bar 4}
+
+Qa1a2b3c4
+Ea1
+c1
+| {bar 5}
+
+Qd1a2c4
+Ec1a2a3c5
+d3
+| {bar 6}
+
+Ea6
+a1a2c3
+c4
+d3
+| {bar 7}
+
+Ha1a2c3a6
+| {bar 8}
+
+{abc Comment: %staff 2}
+{^ system 2}
+
+Qa1a2b3c4
+Ea1
+c1
+| {bar 9}
+
+Qd1a2c4
+Ec1c5
+a1e5
+| {bar 10}
+
+Ed2a3a4
+a1
+c1
+d2
+| {bar 11}
+
+Ea1a5
+c2
+d3
+Sa2
+c2
+| {bar 12}
+
+Ed2a3a4
+c5
+d6
+a1
+| {bar 13}
+
+Qc1d2d3a4
+a1c2d3a5
+| {bar 14}
+
+Ea4
+d2
+d3
+a4
+| {bar 15}
+
+Hd2a3a4Xd
+|| {bar 16}
+{abc Comment: %staff 3}
+{^ system 3}
+
+Ed2d3a4
+a3
+a4
+a1b3
+| {bar 17}
+
+Ec1d3a4
+d2a3
+a1b3
+c2d3
+| {bar 18}
+
+Ed2a4
+b3
+a3
+c4
+| {bar 19}
+
+Ea4
+a1
+c1d2
+a4
+| {bar 20}
+
+Ea1a2b3
+c4
+a6
+c1d3
+| {bar 21}
+
+Ed1a2c4
+a1b3
+c1d3
+e2a3
+| {bar 22}
+
+E.a1a2c3a6
+Sd3
+Ec3
+a3
+| {bar 23}
+
+{abc Comment: %staff 4}
+{^ system 4}
+
+Qc4
+a6
+| {bar 24}
+
+E.a1a2c4
+Sd2
+Ea1
+c1
+| {bar 25}
+
+Ed1b3a6
+Sc1d3c6
+a1
+Ed2f3d6
+Sc2d3a5
+b3
+| {bar 26}
+
+Ed2a3c5
+a1e5
+c1a4
+Sa1
+d2
+| {bar 27}
+
+Ea1c2
+a5
+d3
+b3
+| {bar 28}
+
+Ed2a3Xd
+a1
+c1
+c6
+| {bar 29}
+
+Ea1a2c4d6
+a6
+Sa5
+d2
+Ec2d3
+| {bar 30}
+
+{abc Comment: %staff 5}
+{^ system 5}
+
+Ed2a3a4Xd
+Sc2
+a2
+d3
+b3
+a3
+c4
+| {bar 31}
+
+Ea4
+Xd
+a2
+c2
+|| {bar 32}
+Ed2a3a4
+f1
+Sd1
+a2
+Ec1d3
+| {bar 33}
+
+Sa1
+b3
+Ed2a3
+Sc4
+d2
+Ec2d3
+| {bar 34}
+
+Ed2a3
+a4
+Sa2
+b3
+c4
+c2
+| {bar 35}
+
+Ed2a3a4
+Sa1
+c1
+Ed1
+c1
+| {bar 36}
+
+{abc Comment: %staff 6}
+{^ system 6}
+
+Ea1a2b3a6
+h1
+Sf1
+g3
+Ed1a2
+| {bar 37}
+
+Sc1d3
+a1
+a1
+b3
+d3
+c1
+Ee2f3
+| {bar 38}
+
+Sa1a2c3
+c4
+a3
+c3
+Ed3
+Sc3
+a3
+| {bar 39}
+
+Ea1a2c3
+c4
+a6
+a2
+| {bar 40}
+
+Ea1a2c4
+c1
+d1
+f1a3
+| {bar 41}
+
+Eh1
+f4
+f1h2h4
+f2
+| {bar 42}
+
+{abc Comment: %staff 7}
+{^ system 7}
+
+Ed2f3
+a1
+c1
+a3
+| {bar 43}
+
+Ea1b3
+c4
+d3e4
+a2b3
+| {bar 44}
+
+Ec2d3
+a5
+d2b3c5
+a1e5
+| {bar 45}
+
+Ec1d2a4
+d1a2d6
+a1d3c4a5
+c2
+| {bar 46}
+
+Ed2a3a4
+Sc2
+a2
+d3
+b3
+a3
+c4
+| {bar 47}
+
+Ea4
+Sc4
+a3
+b3
+d3
+a2
+c2
+|| {bar 48}
+{abc Comment: %staff 8}
+{^ system 8}
+
+Sd2a3a4
+c2
+d2
+a1
+c1
+d2
+d1
+c1
+| {bar 49}
+
+Sa1a5
+d2
+c2
+a2
+d3
+b3
+a3
+c4
+| {bar 50}
+
+Sa4
+d3
+a2
+c2
+d2
+a1
+c1
+d1
+| {bar 51}
+
+Ef1a4
+c1
+h1
+f1
+| {bar 52}
+
+Ed1a2c4
+a1
+h1
+Sf1a5
+d1
+| {bar 53}
+
+Ec1a2a3c5
+a1d5
+Sc5
+c1
+Ee2d3
+| {bar 54}
+
+{abc Comment: %staff 9}
+{^ system 9}
+
+Ea1a2c3a6
+Sd2
+c2
+a2
+d3
+c3
+a3
+| {bar 55}
+
+Ec4
+Sa3
+c3
+d3
+a2
+c2
+d2
+| {bar 56}
+
+Sa1c4
+d2
+c2
+a2
+c2
+d2
+a1
+c1
+| {bar 57}
+
+Sd1
+a2
+c4
+d1
+c1
+c5
+a1
+e5
+| {bar 58}
+
+Sd2a3a4
+c2
+d2
+a1
+Ec1a4
+Sa1
+d2
+| {bar 59}
+
+{abc Comment: %staff 10}
+Sa1a5
+d2
+c2
+a2
+c2
+d2
+a1
+c2
+| {bar 60}
+
+Sd2a3a4
+a1
+c1
+d1
+f1
+a4
+d1
+c1
+| {bar 61}
+
+Sa1a5
+d2
+c2
+a2
+Tc2
+a2
+d3
+b3
+d3
+b3
+a3
+c4
+| {bar 62}
+
+Sa4
+Tc4
+a3
+b3
+d3
+a2
+c2
+Sd2
+Ta1
+c1
+d1
+f1
+h1
+k1
+| {bar 63}
+
+Hl1
+|| {bar 64}

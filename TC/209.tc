@@ -1,0 +1,73 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Qa1a2b3a6
+d1 {d2 partially deleted}
+a2a3Xa/
+e2
+|
+Ea1a6
+c1
+d1
+f1
+Q.c1a2a3c5
+Ea1
+|
+H.a1a2c3a6
+||
+Qc1
+|
+Qd1a2b3d6
+Eb3
+b3
+Q.d1a2b3d6
+Sc1
+d1
+|
+E.f1a5
+Sf1
+Ed3
+d3
+Qf1a5
+c1
+|
+Ea1a6
+c1
+d1
+f1
+Eh1Xa/
+a2
+e2
+a2
+|
+Eh1Xa/
+a2
+e2
+a2
+{^}
+Eh1Xa/
+a2
+e2
+a2
+|
+Ea1a6
+c1
+d1
+f1
+h1Xa/
+a2
+e2
+a2
+|
+Sc1
+d1
+f1
+d1
+E.c1a2a3Xa/
+Sa1
+Ha1a2c3a6
+||

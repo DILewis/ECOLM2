@@ -1,0 +1,204 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+E.a1b2d3c4a5
+Sd2
+Ea1
+b1
+a1
+a1b2
+d3
+SXa///
+d4
+|
+E.d1a2c4 {dot omitted in MS}
+Sb1
+Ea1
+d2
+Q.a1b2d3a5
+Ed6
+|
+E.d3a4b6 {dot omitted in MS}
+Sa2
+Qb2
+Ed3a4Xa
+b2
+a2
+d3
+|
+Q.c3c4a6
+Ea4
+d5
+{^}
+a1b3
+d2c5
+b2a5
+|
+Qa2b3a4d6
+Ec4
+d3
+b6
+a4
+Qa2b3d6
+|
+Qb2b3c4
+Ea1
+b1
+Qd1
+Ea6
+c6
+|
+Qd2f3d6
+b2d3a5
+a2d3c4
+c3
+| {editorially supplied}
+Hd3c4a5
+Xa///
+:|:
+Qb2b3c4Xa/ {Q editorially supplied}
+a1
+E.d2d3a4Xa {dot omitted in MS}
+Sa1
+Qb1
+|
+a1a2a6
+Q.d1 {dot ambiguous}}
+Sb1b2d4
+d1
+Qf1
+| {editorially supplied}
+{^}
+Ea1d5
+b1
+d1
+a4
+c4
+d4
+Qd2f3 {MS has H}
+Hi1f2h4 {MS has Q}
+Eh1
+f1
+Ql1Xa {Q editorially supplied}
+|
+Eh4 {E editorially supplied}
+i1
+h1
+f1
+Qh1f4
+h5
+|
+Qf1d4
+Ed1f4
+g2
+Q.f2g3f4d5
+Ed2a3c5
+|
+Qb2d3a5
+Ed2d6
+b6
+a1a6 {Xa crossed through}
+b1Xa
+Qd1Xa/ {Q editorially supplied}
+|
+{^}
+Q.f1b2d4 {dot omitted in MS}
+Sd1d6
+b1
+Qa1b2b3d5 {Q editorially supplied}
+Xa/
+:|:
+Ea1c4a5 {a6 (?) crossed through}
+d3
+b3
+d4
+c4Xa/// {followed by vertical stroke from line 1 down to 4}
+f1
+d1
+b1
+|
+a1b2d3
+a5
+a2d6
+d3b6
+c3c4a6
+a2
+b2
+d2
+|
+a1b3
+a6
+d3b6
+a2d6
+a1b2a5
+c4
+d4
+b3
+|
+{^}
+d3d4
+g2
+d1
+f1
+e1a6
+f2
+a1
+b1
+|
+E.d1c4 {dot omitted in MS}
+Sb2
+Ea2
+b1a4
+Ea1d5
+d3
+b3
+d2c5
+|
+E.b2a5
+Sd4
+Ec4
+a2d6
+E.d3b6
+Sc4
+Ea4
+d3
+|
+Ea6
+b3
+d4
+Xa
+Xa/
+c4
+Ea4
+Xa//
+|
+{^}
+E.d3c4a5Xa///
+Sb2
+E.a2
+Sd3 {orig. S. but dot blotted out}
+E.b3
+Sd4
+E.c4Xa// {changed from S}
+Sa4
+|
+Ec4Xa/
+b3
+d4Xa
+d3
+b3a6
+a2
+{superfluous barline}
+d3b6
+a4
+|
+Qa2d3c4a6 {orig. Q., but corrected by incorporating dot into note head?}
+Ec3
+d2
+Qc2d3c4a5
+Xa///
+||

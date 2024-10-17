@@ -1,0 +1,207 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+M(C/) {in margin}
+Qd3a5
+Ed3
+d3 {crossed out but shouldn't be}
+Qa1c2a5 {a2 changed to or from e2; should be c2}
+d1c4
+|
+Qc1a4
+a1d5
+d2c5
+Eb2a5
+d2
+| {editorially supplied}
+Ea6
+a1
+a2
+c3
+Ha6
+|
+Qa1a2c4
+Sb1 {MS has E}
+a1
+d2c5
+a2
+Qb2a5
+Ed2
+b2
+|
+Q.a2a6 {MS has H.}
+Ed3
+{chord crossed through (d3d5?)}
+Qd3a5 {Q editorially supplied}
+QXa/// {MS has H}
+||
+{^}
+Qd3a5
+Ed3
+d3
+Ea1a5
+Ec1
+Ed1c4
+a1
+| {editorially supplied}
+Ec1a4
+d1
+Qa1d5 {MS has E}
+{erroneously placed barline moved to before Ec1a4}
+Ed2c5
+a1
+b2a5
+d2
+|
+Ea1a6
+Sd2
+c2
+Sa2
+d3
+c3
+a3
+Hc4
+|
+Ec4
+a1
+b1
+a1
+{superfluous barline}
+Sc5 {MS has E}
+d2
+a1
+d2
+{superfluous barline}
+{^}
+a5 {MS has E}
+b2
+d2
+b2
+|
+Q.a2a6
+Sd3
+a2
+Qd3a5 {Q supplied editorially}
+Xa///
+||
+Qa2d6
+Ea2
+d3
+|
+Qb3d6
+Ed6
+c6
+|
+Qd1a6 {Q supplied editorially}
+Ed1
+c1
+|
+Qa1d5
+Ea1
+d2
+|
+b2a5
+Qa2a6
+Eb2a5
+Hd2b6 {MS has Q}
+|
+{^}
+Qa1a6
+c3c4
+Ha6
+|
+Qa1d5 {Q editorially supplied}
+Ed2c5
+b2a5
+|
+Qa2a6
+b2a5
+|
+Qa2b3
+d3d4
+Ec4
+d3
+Qc3 {MS has erroneous c4 instead}
+|
+d3c4a5
+Xa///
+Hd3c4 {d3 changed from c3}
+||
+Ed6 {E aligned with 3rd note of bar; something odd crossed out above this note & and the next}
+a2
+a2
+d3
+|
+Ed6
+b3
+d6
+c6
+|
+Ea6
+d1
+d1
+c1
+|
+{^}
+Ed5
+a1
+a1
+Ed2
+| {editorially supplied}
+Eb2a5
+a2
+d3
+a2
+| {editorially supplied}
+Eb2a5
+a2d6
+b2b6
+{superfluous barline}
+d2
+|
+Ea1
+Sd2
+c2
+a2
+d3
+c3
+a3
+Hc4 {H supplied editorially}
+|
+Ed5
+a1
+d2c5
+b2a5
+|
+Ea6
+a2
+a5
+b2
+|
+Ea2
+b3
+d3
+d4
+|
+{^}
+c4
+d3
+a3
+c3
+|
+d3c4a5
+Sd1 {MS has erroneous E}
+Sc1
+a1
+d2
+c2
+a2
+| {editorially supplied}
+Qd3c4a5 {MS has erroneous a6 for a5}
+Xa///
+Hd3c4a5 {H miscopied by scribe as erroneous d1; d3c4 corrected, possibly from f4}
+||

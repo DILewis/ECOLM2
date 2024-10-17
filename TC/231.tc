@@ -1,0 +1,78 @@
+{<rules>
+	<tuning_named>Gaultier</tuning_named>
+	<notation>french</notation>
+	<pitch>64</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Qa1a2d3c4a5 {followed by crossed out chord: a1a2d3?}
+a1a2d3c4
+a1a2d3c4
+|
+Q.c2e6
+Ea1
+Qc6
+|
+a1a2d3e4 {MS has erroneous e3 for d3}
+a1a2d3 {MS has erroneous e3 for d3}
+a1a2d3 {MS has erroneous e3 for d3}
+|
+Q.c3a6
+Ed3
+QXa
+|
+b1a2a3a4
+b1a2a3a4
+b1a2a3
+|
+a1a5
+b1
+d1
+|
+Hd1Xa/
+Eb1Xa
+a1
+|
+Q.c2a6
+Ea1
+Qa5
+||
+{>}
+{^}
+Qi1h2h3h4a5
+i1h2h3h4
+i1h2h3h4
+|
+Q.h1h2a6
+Ei1
+Qh1
+|
+f1a2a3a4Xa
+f1a2a3a4
+f1a2a3a4
+|
+Ed1
+f2
+a1
+f3
+Qa2
+|
+Ef1Xa
+d1
+f2
+a1
+f3f4f5 {MS has f2f3f4}
+a2
+|
+Q.c3a6
+Ea3
+Qc4
+|
+Hd1Xa/
+Eb1
+a1
+|
+Q.c2a6 {dot omitted in MS}
+Ea1 {E supplied editorially}
+Qa5 {Q supplied editorially}
+||

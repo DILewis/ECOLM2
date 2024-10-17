@@ -1,0 +1,183 @@
+{abc Comment: %}
+{abc Comment: %}
+{File: 'Robinson/abc/Robinson11' Title: A Galliard}
+{abc Comment: %}
+{abc Comment: %staff 1}
+Qa1f2
+e2
+a1c2
+| {bar 1}
+
+Q.c1a2
+Ed3
+Qa1a2c3
+| {bar 2}
+
+Qf1a3
+e1a2c4
+Ec1b4
+d3
+| {bar 3}
+
+Q.a1a2c3c4
+Ed3
+Qa1a2c3c4
+| {bar 4}
+
+Qa2c3c4
+Ec1a2b4
+a3
+a1c3e5
+e3
+| {bar 5}
+
+Q.e2f3c5
+Ea5
+Qa1a2c4e6
+| {bar 6}
+
+{abc Comment: %staff 2}
+{^ system 2}
+
+Qf1c2e4c6
+e1a2a6
+c1a2a3c5
+| {bar 7}
+
+Ea6
+a1a2c3
+c4
+d3
+Qa1a2c3a6
+|| {bar 8}
+Qc5
+Ec1
+c6
+a5
+c2
+| {bar 9}
+
+E.a1e6
+Sa5
+Ec5
+a2
+e2
+c5
+| {bar 10}
+
+Ec2c4
+e1
+f3
+e2c5
+c1b4
+a3
+| {bar 11}
+
+Qa1d3e5
+Ec3
+e6
+c5
+b4
+| {bar 12}
+
+{abc Comment: %staff 3}
+{^ system 3}
+
+Ea3
+c6
+a1f6
+e5
+c4
+c3a6
+| {bar 13}
+
+E.a2b4c5
+Sc4
+Ea3
+c6
+a5
+c4
+| {bar 14}
+
+{Text: "(1)"}
+Qa2c4e6
+Ec1c2c6
+Se3
+c3
+Ee3
+a1
+| {bar 15}
+
+Ec5
+e2f3
+e4
+f2
+Qe2f3c5
+|| {bar 16}
+Qc5
+Ea2
+a5
+e6
+d3c6
+| {bar 17}
+
+Eh1a2g4a6
+a3
+c4
+f1a3
+e1c3
+c1
+| {bar 18}
+
+{abc Comment: %staff 4}
+{^ system 4}
+
+Qa1c2d3
+Ef3
+f2
+Qe2
+| {bar 19}
+
+Ea1
+d3
+c3
+a3
+c4
+d2
+| {bar 20}
+
+E.c2d3
+Sd2
+Ea1
+c3
+f1a3
+e1a2c4
+| {bar 21}
+
+Ec1a2a3b4
+c5
+a1e5
+e2a3c5
+a2
+c2a5
+| {bar 22}
+
+Ea2c4e6
+Sc2
+e2
+Ea1
+e5
+Sc5
+f2
+Ee2f3
+| {bar 23}
+
+Ea1a2c3
+c4
+Sa6
+d3
+c3
+a3
+Qc3
+|| {bar 24}
+{abc Comment: %}

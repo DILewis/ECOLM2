@@ -1,0 +1,335 @@
+{File: 'Robinson/abc/Robinson10' Title: A Toy for two lutes}
+{abc Comment: %staff 1}
+Qc1
+Ed1
+c1
+a1
+d2
+c2
+a1
+| {bar 1}
+
+Ed2
+a1
+c1
+d1
+Qf1
+h1
+| {bar 2}
+
+Ef1
+c1
+d1
+a1
+c1
+d2
+a1
+c2
+| {bar 3}
+
+Ed2
+Sc2
+a2
+d3
+b3
+a3
+c4
+Ea4
+d3
+a2
+c2
+|| {bar 4}
+{abc Comment: %staff 2}
+{^ system 2}
+
+Qd2d3a4
+d2
+Ec2d3a5
+d2
+a1
+c2
+| {bar 5}
+
+Qd2d3a4
+d3
+a3
+Ea2b3
+c2
+| {bar 6}
+
+Qd2a3
+Ea1c4
+c2
+Qf1d2a4
+Ec2a5
+d1
+| {bar 7}
+
+Qc1d2d3a4
+d2
+Ed3
+c2
+d2
+a1
+|| {bar 8}
+{abc Comment: %staff 3}
+{^ system 3}
+
+Ec1
+Sa1
+c1
+Ed1
+c1
+a1
+Sf1
+d1
+c1
+a1
+d2
+c2
+| {bar 9}
+
+Ed2
+Sc2
+d2
+f2
+d2
+c2
+a2
+Ec1
+Sa2
+c2
+Ed2
+c2
+| {bar 10}
+
+Ea2
+Sh1
+f1
+d1
+c1
+a1
+d2
+c2
+a2
+e3
+c3
+e3
+a2
+c2
+e3
+| {bar 11}
+
+{abc Comment: %staff 4}
+{^ system 4}
+
+Ea2
+c1
+e1
+g1
+Hh1
+|| {bar 12}
+Qd2a3
+a4
+a1d3e5
+a5
+| {bar 13}
+
+Qd2a3c5
+a2d6
+c2a3c6
+Ed2a3Xd
+c2
+| {bar 14}
+
+{abc Comment: %staff 5}
+{^ system 5}
+
+Ea2c3a6
+c4
+a1
+d2
+c2a3c6
+a2
+Qc2
+| {bar 15}
+
+Qa2a3c5
+Xa
+Hc5
+|| {bar 16}
+Sf1
+d1
+c1
+a1
+Ed2
+Sd1
+c1
+a1
+d2
+c2
+a2
+d3
+b3
+a3
+c4
+| {bar 17}
+
+{abc Comment: %staff 6}
+{^ system 6}
+
+Ea4
+Sc4
+a3
+b3
+d3
+a2
+c2
+d2
+c2
+a2
+c2
+d2
+c2
+d2
+a1
+| {bar 18}
+
+Sc1
+d2
+a1
+c1
+d1
+a1
+c1
+d1
+f1
+h1
+i1
+h1
+f1
+d1
+c1
+a1
+| {bar 19}
+
+Ed2
+f1
+h1
+k1
+Hl1
+|| {bar 20}
+{abc Comment: %staff 7}
+{^ system 7}
+
+Qd2d3a4
+d2
+Ec2d3a5
+d2
+a1
+c2
+| {bar 21}
+
+Qd2a4
+d3
+a3
+Ea2b3
+c2
+| {bar 22}
+
+Qd2a3
+Ea1c4
+c2
+Qf1d2a4
+Ec2a5
+d1
+| {bar 23}
+
+{abc Comment: %staff 8}
+{^ system 8}
+
+Qc1d2d3a4
+d2
+Ha4
+|| {bar 24}
+Sc1
+a1
+d2
+c2
+d2
+a1
+c1
+d1
+E.f1
+Sd1
+c1
+| {bar 25}
+
+Sd1
+c1
+a1
+d2
+a1
+d2
+c2
+a2
+Ec2
+d2
+a1
+c1
+| {bar 26}
+
+{abc Comment: %staff 9}
+{^ system 9}
+
+Ea1
+a2
+a1
+Sf1
+e1
+c1
+a1
+c1
+e1
+c1
+a1
+e2
+c2
+| {bar 27}
+
+Ee2
+Sc1
+a1
+c1
+a1
+e2
+c2
+Ha2
+|| {bar 28}
+Qd2a3
+a4
+a1d3e5
+a5
+| {bar 29}
+
+{abc Comment: %staff 10}
+Qd2a3c5
+a2d6
+c2a3c6
+Ed2a3Xd
+c2
+| {bar 30}
+
+Ea2c3a6
+c4
+a1
+d2
+c2a3c6
+a2
+Qc2
+| {bar 31}
+
+Qa2a3c5
+Xa
+Hc5
+|| {bar 32}

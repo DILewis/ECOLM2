@@ -1,0 +1,110 @@
+{<rules>
+	<rhythm-font>varietie</rhythm-font><tuning_named>renaissance</tuning_named>
+	<pitch>67</pitch>
+	<notation>french</notation>
+	<bass_tuning>(-2 -1 -2 -2)</bass_tuning>
+</rules>}
+{f. 200v}
+{Allemande}
+Qd2b3d6
+|
+Ea1d5
+c1
+Qd1c4
+Ec1a4
+d1
+Qf1
+|
+Hd1d2f3d6
+Qf4
+f1h2f5
+|
+Eh1f3 {h1 changed to/from f1?}
+k1
+Ql1k4
+Ek1h4
+l1
+Qh1a5
+|
+Hl1h2a4
+QXa
+{^}
+Ed3
+a2
+|
+Hb2d3d4
+d2f3f4
+|
+d3e4f5
+QXa
+El1
+i1
+|
+Qh1i2f4
+Ei1h5
+h1
+f1
+i2
+Qf1h2f5
+|
+H.d1d2f3d6
+||
+Ed1d2f3f4
+f1
+|
+{whole bar crossed?:
+Qh1d6
+f1d2d3f5- f1 changed from d1?
+HXa?
+|}
+Hd1d2f3d6
+Qf4
+{^}
+Ef1
+h1
+|
+Qi1h4 {?}
+f3
+f1g3
+f1h2i3 {i3 or barre?}
+|
+Hi2f3f4
+QXf
+l1
+|
+Hi1i5
+h1f4
+|
+f1h2f5
+Xa
+Ed3
+a2
+|
+Qb2
+b6
+d2f3f4d6 {f3 changed from d3?}
+Ed3
+f4
+|
+H.d2d3e4f5
+Ef2
+h2
+{^}
+Qi2h5
+f1h2i3f5
+h1i2f4
+k1h5
+|
+l1h2i3a4 {i3 or barre?}
+l1h2i3
+i1
+h1
+|
+Qf1h2i3f5
+{h2 crossed}
+i2h6
+i2i6
+h2i3f5
+|
+Wd1d2f3f4d6
+||

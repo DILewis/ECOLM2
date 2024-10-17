@@ -1,0 +1,60 @@
+{<rules>
+	<tuning_named>Gaultier</tuning_named>
+	<notation>french</notation>
+	<pitch>64</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+{barred 3}
+Ha1a2d3c4a5
+Qd1
+|
+Hd1Xa///
+Qb1
+|
+a1a5
+b1
+d1
+| {editorially supplied}
+Qa6
+c6
+e6
+|
+{^}
+Hd3c4a5
+QXa///
+|
+Hd3c4
+Qc2
+|
+H.a1a2d3c4a5
+|
+H.b1a2a3a4Xa {something smudged/partially deleted on line 2 before chord}
+:|:
+Q.a1a5
+Ec2
+Qa1
+|
+QXa///
+Xa//
+Xa/
+|
+c2a6
+d3
+c2
+|
+Q.c3a6
+Ea3
+Qc4
+| {editorially supplied}
+Hd3c4a5
+QXa///
+|
+{^}
+Hd3c4
+Qc2
+|
+H.a1a2d3c4a5 {dot omitted in MS}
+|
+H.b1a2a3a4Xa
+||

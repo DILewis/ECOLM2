@@ -1,0 +1,284 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+{barred 3}
+Qa1
+| {editorially supplied}
+Q.a1b2d3
+Eb1
+Qd1c4
+|
+b1a4
+a5
+c5
+|
+Q.a1b2d5
+Ed2
+Qb2
+|
+{^}
+d2c5
+d6
+Ea1
+d2
+|
+Qb2a5
+d6
+d2b6
+|
+Ha1a2c3a6
+Qc4
+|
+Qa1a2c3
+c4
+a4
+|
+d5
+Ea1
+d2
+a1
+b1
+|
+Qd1 {Q editorially supplied}
+c5
+a5
+|
+d6
+Ea2
+d3
+a2
+b2
+|
+Qd2 {Q editorially supplied}
+b6
+a6
+|
+QXa
+Ea1
+b1
+{^}
+d1 {this and next note placed before stave on hand-drawn line} 
+b1
+| {editorially supplied}
+Qa1Xa/
+Ed2
+b2
+a2Xa
+b2
+|
+d2
+b2
+Q.a2a6
+Sd3
+a2
+|
+Qd3
+a5
+Xa///
+|
+Hd3c4
+||
+Qa1b2d5 {Q supplied editorially}
+b1
+a1
+| {editorially supplied}
+d2b3d6
+a4
+Ea1
+d2
+|
+Qb2d3a5
+Xa///
+d2
+|
+b2a5
+d3
+a2d6
+|
+d3b6
+Q.a2Xa
+Sb2
+d2
+|
+{^}
+Qa2
+a6
+c5
+|
+Qc4
+Ea1
+d2
+a1
+b1
+|
+Qd1 {MS has E}
+c4
+Ed5 {E editorially supplied}
+d1
+|
+Qb1
+a4
+Ec5
+b1
+|
+Qa1 {Q editorially supplied}
+d5
+Ea5
+a1
+|
+Qd2
+c5
+Ed6
+d2
+|
+Qb2
+a5
+Eb6
+b2
+|
+{^}
+Qa2
+d6
+Ea6
+a2
+|
+Qd3 {MS has erroneous d2 instead}
+b6
+EXa
+d3
+|
+Qa6 {Q editorially supplied}
+Eb2 {E editorially supplied}
+d2
+Xa/
+a1
+|
+d2Xa
+b2
+Q.a2a6 {dot omitted in MS}
+Sd3
+a2
+|
+Qd3
+a5
+Xa///
+| {editorially supplied}
+Hd3c4
+||
+Qa1
+| {editorially supplied}
+Ea1d5
+d1
+b1
+a1
+d2
+a1
+|
+{^}
+d6
+d2
+b2
+a2
+a1b3
+d2
+|
+Eb2a5
+d2
+a1
+d3
+b2
+d2
+|
+b2a5
+d3
+d2
+b2
+a2
+d6
+|
+Qd3b6
+EXa
+a2
+b2
+d2
+| {editorially supplied}
+Qa2
+a6
+c5
+|
+c4
+Ea1 {E editorially supplied}
+d2
+a1
+b1
+|
+d1
+b3
+d4 {MS has erroneous a3 instead}
+c4
+d5
+{^}
+d1
+|
+b1
+d4
+c4
+a4
+c5
+b1
+|
+a1
+c4
+a4
+d5
+a5
+a1
+|
+d2
+a4
+d5
+c5
+d6
+d2
+|
+b2
+d5
+c5
+a5
+b6
+b2
+| {editorially supplied}
+Qa2
+d6
+Ea6
+a2
+|
+Qd3
+b6
+EXa {rhythm sign aligned with previous note}
+d3
+|
+a6
+{^}
+a2
+b2
+d2
+Xa/
+a1
+| {editorially supplied}
+d2Xa
+b2
+Q.a2a6 {c2 (?) crossed through so a2 supplied editorially; dot omitted in MS}
+Sd3
+a2
+|
+Qd3
+a5
+Xa///
+|
+Hd3c4
+||

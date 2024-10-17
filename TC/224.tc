@@ -1,0 +1,168 @@
+{<rules>
+	<tuning_named>harpway-sarabande</tuning_named>
+	<notation>french</notation>
+	<pitch>65</pitch>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+</rules>}
+Qa1
+|
+e1
+Xa
+Ef1 {E editorially supplied}
+a1
+Hh1 {H aligned with previous note in MS}
+Qa1
+|
+H.c1a5
+He2
+Qa2
+|
+a1 {rhythm sign (H?) crossed out; should have been moved to next bar}
+Xa
+a4 {rhythm sign (Q?) crossed out; should have been moved to next bar}
+| {superfluous}
+Hc6 {H editorially supplied}
+Qa2 {Q editorially supplied}
+|
+H.c4a5
+HXa///
+Qc4
+|
+Qa3
+HXa
+Qa2
+Hc6
+|
+Qc2d6
+e2
+a1
+{^}
+Qc1
+Ha6
+|
+Qe2a5
+a1
+c1
+e1
+c6
+c1
+|
+a1c5
+c1
+d2a5
+c2
+Hd6
+|
+Qa2c6
+c2
+a6
+b3
+d3
+Xa
+|
+Qa3
+b3
+Xa/
+Qc4
+e4
+a4Xa
+|
+{^}
+Qe5
+Xa///
+a2
+Xa
+e4
+c4a5
+|
+Qa4
+HXa
+H
+:|
+Qc4
+|
+e5
+Xa///
+a5
+Ha2
+Qc4
+|
+Qa3
+Xa
+a2 {Q crossed out above}
+c4
+Xa/
+b3
+|
+Qa3
+Xa
+a4
+Ha1
+Qa2
+|
+{^}
+Qc2
+Hd6
+H
+Qc1
+|
+e2
+a5
+c1
+Hc1e6
+Qc2
+|
+e2
+a5
+a3
+Hb3
+Qa1
+|
+a3
+a5
+e2
+c4
+d6 {editorially supplied; MS has ornament sign only}
+c2
+|
+Qa4
+c6
+a2
+e5
+a6
+b3 {something crossed through on line 2}
+|
+a3
+a4
+{^}
+He1
+Qh1
+|
+H.h1a2Xa/// {dot omitted in MS; MS has erroneous Xa/ for Xa///}
+Qe1Xa
+f2
+h1
+|
+H.h1a2Xa/// {dot omitted in MS}
+Q.Xa// {dot omitted in MS}
+Ef1 {E aligned with previous note in MS}
+Qe1
+|
+Q.h2Xa/ {h1 (?) partially deleted/smudged}
+Ee1
+Qf1
+Q.e1Xa {dot omitted in MS}
+Ef1
+Qh1
+|
+e2Xa///
+a2
+h1
+Xa
+e1
+c1a5
+| {editorially supplied}
+H.a1 {H. editorially supplied}
+Xa
+||

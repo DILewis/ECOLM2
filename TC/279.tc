@@ -1,0 +1,117 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+Qf1d4
+Eb1a4
+d2
+Q.f1g2d4
+Ef1
+|
+d1f2d5
+f1
+b1a4
+d1
+Q.a1c2d3a5
+Ed3 {something crossed out on line4}
+|
+d6d2
+a1
+b1d4
+d2
+Qd1a2c4 {a2 ambiguous; almost a3}
+Ea1e5
+d3
+|
+c2a5
+d2
+a1d2d3
+c2
+{superfluous barline}
+Qd2d3a4 {Q editorially supplied} 
+Xa
+:|:
+Qb1d2a4 {MS has erroneous a5 for a4}
+Ed4 {MS has erroneous d5 for d4}
+b1
+d1d5
+f1
+g1d6
+d1
+|
+{^}
+Qf1g2d4
+f1g2
+Hd1f2d5
+|
+Ed1d6 {E editorially supplied}
+Eb1
+d2b5
+a1
+Qb1b2d3b6 {Q editorially supplied}
+Ea1a5 {E editorially supplied}
+b1
+|
+{MS has d1d3b6; erroneous reading of next chord, so should be crossed}
+Qd1d2b5 {rhythm sign aligned with next note in MS}
+d1f2g3d5
+Hb1b2d3b6
+| {editorially supplied}
+Qb2d3d4
+Ed2
+a1b2c4
+Qb1d3a4
+Ed3e5
+a1
+|
+Qd2d3a4
+c2d3a5
+d2d3a4Xa
+d3
+|
+Qf1d2f5
+Ed1
+Qg2
+Ea1d5
+b1
+d1
+|
+{^}
+f1
+Sd2
+a1
+b1
+d1
+Qa5
+f1c2
+Ef1
+|
+g1d2f4d6
+Ef1
+d1
+g2
+Q.a1c2d3a5
+Ed3
+|
+Qa1a5
+Sd3
+a2
+c2
+d2
+Ha1c2d3a5
+|
+Qd2d3a4Xa
+a1c2d3a5
+b1b2d3b6
+EXa
+d1
+|
+Qa1a5 {Q editorially supplied}
+Ea1d2d3a5 {E editorially supplied}
+c2 
+Qd2d3a4 {Q editorially supplied}
+Xa
+|| {in margin, with fermata above}

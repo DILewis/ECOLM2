@@ -1,0 +1,92 @@
+{File: 'Robinson/probs/Robinson35' Title: Three parts in one vpon an old ground}
+{abc Comment: %staff 1}
+Ed3
+| {bar 1}
+
+Ed2
+d2a4
+d2f4
+Sa1e4
+c4
+| {bar 2}
+
+Ec1a4
+d2
+d2
+Sa1b2a5
+a2
+| {bar 3}
+
+Ec1d3a4
+Sd1d5
+c5
+Ef1a5
+h1d2f4d6
+| {bar 4}
+
+Ed1f2g3d5
+Sf3
+d3
+Ef4
+d1d2f3d6
+| {bar 5}
+
+{abc Comment: %staff 2}
+Ec1d2a4
+Sd1b2c4
+a2
+Ef1d3e4
+Sd1a2b3
+c1
+| {bar 6}
+
+Ea1b2d3
+Sc1a2
+d3
+Ed1b3c4
+Sc1d3e4
+a1
+| {bar 7}
+
+Ed2f3f4
+Sd3a4
+c1
+a1c4
+d2
+c2c3
+a2
+| {bar 8}
+
+E.d3c4a5
+Sb3
+E.d2a3c5
+Sc2
+| {bar 9}
+
+{abc Comment: %staff 3}
+Ea1a2c3c4
+Sa6
+d2
+c2a5
+a2
+d3
+b3
+| {bar 10}
+
+E.d2a3a4
+Sd5
+E.c1d2c5
+Sb2a5
+| {bar 11}
+
+Sd1f3d6
+f1
+Eh1d2f4
+{Text: "(1)"}
+f1f2h4
+a1c2d3a5
+| {bar 12}
+
+Ed2a3a4
+E.Xa
+|| {bar 13}

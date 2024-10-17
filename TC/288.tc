@@ -1,0 +1,144 @@
+{<rules>
+	<tuning_named>renaissance</tuning_named>
+	<notation>french</notation>
+	<bass_tuning>(-2 -3 -2)</bass_tuning>
+	<rhythm_noteheads>round</rhythm_noteheads>
+	<pitch>67</pitch>
+</rules>}
+{barred 3}
+Qc1
+|
+Q.c1d2d3Xa
+Ed1
+Qc1
+|
+a1a5
+d2
+a1c2
+|
+Q.d2d3a4Xa {dot omitted in MS}
+Ea1
+c1
+d1
+|
+Qf1
+c1
+{^}
+a1
+|
+H.a1c2d3a5 {dot omitted in MS}
+|
+HXa///
+Qa1
+|
+Q.a1c2d3a5 {dot omitted in MS}
+Ec1
+Qa1
+|
+c2a5
+d3
+a1
+|
+Hd3c4a5Xa///
+Qd3 {MS has erroneous d2 instead}
+|
+Ea2d6
+d3
+a2
+c2
+d2
+a2
+|
+c2a5 {Q sign crossed through}
+d3
+a2
+c2
+d2a4
+a1
+|
+c1
+d2
+{^}
+Q.a1a5
+Sd2
+c2
+|
+Qd2
+Ha4
+:|:
+Qd2d3a4Xa {Q supplied editorially}
+a1
+d2
+|
+a2
+b3
+d6
+|
+a1a5
+c1
+a1
+|
+c2
+d3
+a5
+|
+c1d2d3Xa
+Ed2 {MS has Q}
+a4
+QXa {Q editorially supplied}
+|
+d1d2f3d6
+f1
+c1a4
+|
+a1a5
+{^}
+d2
+a1c2
+|
+Qc1a4
+Ed2
+a1
+c1
+e1
+|
+Qf1
+a6
+e1
+|
+H.f1c2a5 {dot omitted in MS}
+|
+HXa///
+Qf1
+|
+Hf1a4
+Qh1
+| {editorially supplied}
+Hd1d2f3d6
+Qf1
+|
+Q.c1d2d3a4
+Ea1
+Qc1
+|
+c1a4
+a1e5
+d2c5
+|
+a1c2d3a5
+{>}
+{^}
+Qf1 {Q editorially added; carries over from previous folio}
+Ed2a4
+a1
+|
+Q.a1a5
+Sd2
+c2
+Qd2
+| {editorially supplied}
+Ha4
+QXa {Q editorially supplied}
+|
+H.d2a3a4 {dot omitted in MS}
+||

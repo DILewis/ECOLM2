@@ -1,0 +1,488 @@
+{abc Comment: %}
+{File: 'Robinson/abc/Robinson09' Title: A Fantasie for two lutes}
+{abc Comment: %}
+{abc Comment: %staff 1}
+Q.d2
+Ea1
+
+| {bar 1}
+
+{Text: "(1)"}
+Ec1a4
+d2
+
+c1
+Sd1c2c4
+a2
+
+| {bar 2}
+
+Ef1d3e4
+a4
+a3
+Sd1b3
+c1
+
+| {bar 3}
+
+E.a1d3
+Sb3
+a3
+
+| {bar 4}
+
+Q.c4
+Ea3
+| {bar 5}
+
+Eb3a6
+c4
+b3
+d3c6
+| {bar 6}
+
+{abc Comment: %staff 2}
+{^ system 2}
+
+Ea2d6
+a6
+d6
+Sd3a5
+b3
+| {bar 7}
+
+Qa3c5
+Ea2
+Sa5
+d6
+| {bar 8}
+
+Ed3c6
+e4
+c1
+Sa1d6
+d2
+| {bar 9}
+
+Ec2a5
+f1
+Sd3
+d1
+Ea1
+| {bar 10}
+
+Ec1d2d3a4
+d2
+SXa
+d1
+c1
+a1
+| {bar 11}
+
+Ec1d2d3
+a4
+QXa
+| {bar 12}
+
+{abc Comment: %staff 3}
+{^ system 3}
+
+H
+| {bar 13}
+
+Q.d3
+Ea2
+
+| {bar 14}
+
+Ec2a5
+d3
+c2
+d2c5
+| {bar 15}
+
+Ea1e5
+a5
+e5
+Sd2a4
+c2
+| {bar 16}
+
+Ea2c4
+Sb3
+d3
+Ea2
+Sa4
+e5
+| {bar 17}
+
+Qc5
+Ea2
+c2
+| {bar 18}
+
+{abc Comment: %staff 4}
+{^ system 4}
+
+Ed2c5
+a2
+d2
+a1e5
+| {bar 19}
+
+Ec1a4
+f1
+a5
+Sd1a2c5
+c1
+| {bar 20}
+
+Ea1d3e5
+Sd2a4
+c4
+a3
+b3
+Ec2d3
+| {bar 21}
+
+Ed2a3
+Sa4
+b3
+d3
+a2
+d3
+b3
+| {bar 22}
+
+Qa3
+Ea4
+c1
+| {bar 23}
+
+Ef1
+d3
+d2
+a4
+| {bar 24}
+
+{abc Comment: %staff 5}
+{^ system 5}
+
+Sa3
+d2
+a1
+d1
+E.c1
+{Text: "(2)"}
+Sf1/2
+| {bar 25}
+
+El1
+Sk1
+h1
+
+f1
+Ti1
+h1
+
+f1
+d1c2
+a1
+
+| {bar 26}
+
+Sd2
+a1
+c1
+d1
+Ef1
+d3
+| {bar 27}
+
+Sa2
+c2
+d2
+a1
+Ec1
+a1
+| {bar 28}
+
+E.h1
+Sh1/2
+E.f1
+Sd1/2
+| {bar 29}
+
+{abc Comment: %staff 6}
+{^ system 6}
+
+Qc1d2d3a4
+S
+b2
+a2
+d3
+| {bar 30}
+
+Ea2b3a4d6
+d6
+Sb3
+a5
+Eb3c5
+| {bar 31}
+
+Ed1d5
+Sc5
+d2
+Ea1a5
+d2c5
+| {bar 32}
+
+Ea1d5
+Sa2d6
+a5
+Ec5
+b4
+| {bar 33}
+
+Ea1a2c4a6
+a2
+E.h1
+Sc1/2
+| {bar 34}
+
+Ed1a2c4
+Sc1
+c5
+Ed1c4
+d2d3a4
+| {bar 35}
+
+{abc Comment: %staff 7}
+{^ system 7}
+
+Sb3
+d3
+Ea2
+Sd3
+a1
+Ec2
+| {bar 36}
+
+E.f1d2a3
+Sa1/2
+Ec1d3
+Sa1
+c4
+| {bar 37}
+
+Ed2a3
+c2c4
+f1d2a4
+Se5
+a1
+| {bar 38}
+
+Ec1a4
+Sa1a5
+c1
+Ed1d6
+Sc5
+d2
+| {bar 39}
+
+Ea1b2d5
+Sd2f3d6
+d3
+Ea1b3c4
+a2a4
+| {bar 40}
+
+{abc Comment: %staff 8}
+{^ system 8}
+
+Ed3d5
+Sb3
+c5
+E.d3a5
+Sc4/5
+| {bar 41}
+
+Ea3
+a2c4
+c1a4
+Sa5
+c2
+| {bar 42}
+
+E.f1d2
+Sa1/2
+Ec1d3
+Sa1
+c4
+| {bar 43}
+
+Ed2a3
+c2c4
+d2a4
+a1e5
+| {bar 44}
+
+Ec1a2c5
+Sd3e5
+f4
+Ea3a4
+Sa1c4
+d2
+| {bar 45}
+
+{abc Comment: %staff 9}
+{^ system 9}
+
+Sc2a5
+d2
+c2
+a2
+d3
+d2
+a5
+{Text: "(3)"}
+c2
+| {bar 46}
+
+E.d2d3a4
+Sa1
+c1
+
+| {bar 47}
+
+E.d1
+Sd2/3
+Ea1
+d2
+| {bar 48}
+
+Ea1
+a2
+Q
+| {bar 49}
+
+Q
+E.h1
+Sc1/2
+| {bar 50}
+
+{abc Comment: %staff 10}
+Ed1
+c1
+d1
+d2
+| {bar 51}
+
+Q
+E.h1
+Sc1/2
+| {bar 52}
+
+Ed1
+Sc1
+d1
+E.f1
+Sa1/2
+| {bar 53}
+
+Ec1a4
+a1e5
+d2a4
+c2a5
+| {bar 54}
+
+E.f1
+Sa1/2
+Ec1
+a1
+| {bar 55}
+
+{abc Comment: %staff 11}
+Ed2
+b2
+a2
+d6
+| {bar 56}
+
+Sb3
+a5
+Eb3c5
+d1d5
+Sc5
+d2
+| {bar 57}
+
+Ea1b2a5
+Sc5
+d2
+a1d5
+a4
+Ea2c3c4
+| {bar 58}
+
+E.d3a5
+Sc4/5
+Ef1a3
+Sc4
+a1
+| {bar 59}
+
+Ec1a4
+a1e5
+d2a3a4
+c2d3a5
+| {bar 60}
+
+{abc Comment: %staff 12}
+E.f1
+Sa1/2
+Ec1d3
+Sa1
+c4
+| {bar 61}
+
+Ed2a3
+Sc2
+c4
+Ed3e4
+Sd1a2b3
+c1
+| {bar 62}
+
+Sa1d3
+a2
+c2
+d2
+a1
+Td1
+c1
+a1
+d2
+Sa1
+| {bar 63}
+
+S.c1
+Ta1
+c1
+E.d1
+Sf1/2
+| {bar 64}
+
+Eh1
+Sf1
+h1
+
+Ef1
+d1
+
+| {bar 65}
+
+{Text: "(4)"}
+c1d2a3a4
+
+|| {bar 66}
